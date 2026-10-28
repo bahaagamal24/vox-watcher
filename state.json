@@ -156,15 +156,11 @@
     },
     "red-flag-arabic": {
       "title": "Red Flag",
-      "alerted": true,
-      "cinemas": [
-        "Mall of Egypt"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-10-28",
-      "notified_cinemas": [
-        "Mall of Egypt"
-      ],
-      "booking_open": true
+      "notified_cinemas": [],
+      "booking_open": false
     },
     "digger": {
       "title": "Digger",
