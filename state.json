@@ -8,7 +8,13 @@
         "City Centre Almaza",
         "Mall of Egypt"
       ],
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-28",
+      "notified_cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
+        "Mall of Egypt"
+      ],
+      "booking_open": true
     },
     "clayface": {
       "title": "Clayface",
@@ -18,7 +24,13 @@
         "City Centre Almaza",
         "Mall of Egypt"
       ],
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-28",
+      "notified_cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
+        "Mall of Egypt"
+      ],
+      "booking_open": true
     },
     "whalefall": {
       "title": "Whalefall",
@@ -28,7 +40,13 @@
         "City Centre Almaza",
         "Mall of Egypt"
       ],
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-28",
+      "notified_cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
+        "Mall of Egypt"
+      ],
+      "booking_open": true
     },
     "other-mommy": {
       "title": "Other Mommy",
@@ -38,37 +56,53 @@
         "City Centre Almaza",
         "Mall of Egypt"
       ],
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-28",
+      "notified_cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
+        "Mall of Egypt"
+      ],
+      "booking_open": true
     },
     "verity": {
       "title": "Verity",
       "alerted": true,
       "cinemas": [
-        "City Centre Alexandria",
-        "City Centre Almaza",
-        "Mall of Egypt"
+        "City Centre Almaza"
       ],
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-28",
+      "notified_cinemas": [
+        "City Centre Almaza"
+      ],
+      "booking_open": true
     },
     "heart-of-the-beast": {
       "title": "Heart of the Beast",
       "alerted": true,
       "cinemas": [
-        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ],
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-28",
+      "notified_cinemas": [
+        "City Centre Almaza",
+        "Mall of Egypt"
+      ],
+      "booking_open": true
     },
     "street-fighter": {
       "title": "Street Fighter",
       "alerted": true,
       "cinemas": [
         "City Centre Alexandria",
-        "City Centre Almaza",
         "Mall of Egypt"
       ],
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-28",
+      "notified_cinemas": [
+        "City Centre Alexandria",
+        "Mall of Egypt"
+      ],
+      "booking_open": true
     },
     "resident-evil": {
       "title": "Resident Evil",
@@ -77,156 +111,176 @@
         "City Centre Almaza",
         "Mall of Egypt"
       ],
-      "last_seen": "2026-10-28"
-    },
-    "the-odyssey": {
-      "title": "The Odyssey",
-      "alerted": true,
-      "cinemas": [
+      "last_seen": "2026-10-28",
+      "notified_cinemas": [
         "City Centre Almaza",
         "Mall of Egypt"
       ],
-      "last_seen": "2026-10-28"
+      "booking_open": true
+    },
+    "the-odyssey": {
+      "title": "The Odyssey",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-10-28",
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "naseeb-arabic": {
       "title": "Naseeb",
       "alerted": true,
       "cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-28",
+      "notified_cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
+        "Mall of Egypt"
+      ],
+      "booking_open": true
     },
     "mahmoud-el-tany-arabic": {
       "title": "Mahmoud El Tany",
       "alerted": true,
       "cinemas": [
-        "City Centre Almaza",
-        "Mall of Egypt"
+        "City Centre Almaza"
       ],
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-28",
+      "notified_cinemas": [
+        "City Centre Almaza"
+      ],
+      "booking_open": true
     },
     "red-flag-arabic": {
       "title": "Red Flag",
       "alerted": true,
       "cinemas": [
-        "City Centre Almaza",
         "Mall of Egypt"
       ],
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-28",
+      "notified_cinemas": [
+        "Mall of Egypt"
+      ],
+      "booking_open": true
     },
     "digger": {
       "title": "Digger",
-      "alerted": true,
-      "cinemas": [
-        "City Centre Almaza",
-        "Mall of Egypt"
-      ],
-      "last_seen": "2026-10-28"
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-10-28",
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "avengers-endgame-encore-infinity-vision": {
       "title": "Avengers Endgame: Encore (Infinity Vision)",
-      "alerted": true,
-      "cinemas": [
-        "Mall of Egypt"
-      ],
-      "last_seen": "2026-10-28"
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-10-28",
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "shish-dou-arabic": {
       "title": "Shish Dou",
-      "alerted": true,
-      "cinemas": [
-        "City Centre Almaza"
-      ],
-      "last_seen": "2026-10-28"
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-10-28",
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "spider-man-brand-new-day": {
       "title": "Spider-Man: Brand New Day",
-      "alerted": true,
-      "cinemas": [
-        "Mall of Egypt"
-      ],
-      "last_seen": "2026-10-28"
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-10-28",
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "the-smurfs-timeless-adventure-volume-2": {
       "title": "The Smurfs Timeless Adventure Volume 2",
-      "alerted": true,
-      "cinemas": [
-        "City Centre Almaza",
-        "Mall of Egypt"
-      ],
-      "last_seen": "2026-10-28"
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-10-28",
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "the-magic-faraway-tree": {
       "title": "The Magic Faraway Tree",
       "alerted": true,
       "cinemas": [
-        "Mall of Egypt"
+        "City Centre Almaza"
       ],
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-28",
+      "notified_cinemas": [
+        "City Centre Almaza"
+      ],
+      "booking_open": true
     },
     "infiltrate": {
       "title": "Infiltrate",
-      "alerted": true,
-      "cinemas": [
-        "Mall of Egypt"
-      ],
-      "last_seen": "2026-10-28"
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-10-28",
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "no-paradise-if-you-are-killed-by-a-woman": {
       "title": "No Paradise if You Are Killed by a Woman",
-      "alerted": true,
-      "cinemas": [
-        "City Centre Almaza",
-        "Mall of Egypt"
-      ],
-      "last_seen": "2026-10-28"
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-10-28",
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "soy-turkish": {
       "title": "Soy",
-      "alerted": true,
-      "cinemas": [
-        "City Centre Almaza",
-        "Mall of Egypt"
-      ],
-      "last_seen": "2026-10-28"
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-10-28",
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "soy-arabic": {
       "title": "Soy",
-      "alerted": true,
-      "cinemas": [
-        "Mall of Egypt"
-      ],
-      "last_seen": "2026-10-28"
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-10-28",
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "the-dino-family": {
       "title": "The Dino Family",
       "alerted": true,
       "cinemas": [
-        "City Centre Alexandria",
-        "City Centre Almaza",
-        "Mall of Egypt"
+        "City Centre Almaza"
       ],
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-28",
+      "notified_cinemas": [
+        "City Centre Almaza"
+      ],
+      "booking_open": true
     },
     "enhypen-world-tour-blood-saga": {
       "title": "ENHYPEN WORLD TOUR 'BLOOD SAGA'",
-      "alerted": true,
-      "cinemas": [
-        "City Centre Alexandria",
-        "City Centre Almaza",
-        "Mall of Egypt"
-      ],
-      "last_seen": "2026-10-28"
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-10-28",
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "hybe-cheering-party-3d": {
       "title": "HYBE CHEERING PARTY 3D",
       "alerted": true,
       "cinemas": [
-        "City Centre Alexandria",
-        "City Centre Almaza",
-        "Mall of Egypt"
+        "City Centre Alexandria"
       ],
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-28",
+      "notified_cinemas": [
+        "City Centre Alexandria"
+      ],
+      "booking_open": true
     },
     "bts-world-tour-arirang-in-s-o-paulo-live": {
       "title": "BTS WORLD TOUR 'ARIRANG' IN SÃO PAULO: LIVE",
@@ -236,7 +290,13 @@
         "City Centre Almaza",
         "Mall of Egypt"
       ],
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-28",
+      "notified_cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
+        "Mall of Egypt"
+      ],
+      "booking_open": true
     },
     "avengers-doomsday-infinity-vision": {
       "title": "Avengers: Doomsday (Infinity Vision)",
@@ -245,7 +305,12 @@
         "City Centre Alexandria",
         "City Centre Almaza"
       ],
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-28",
+      "notified_cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza"
+      ],
+      "booking_open": true
     },
     "dune-part-three": {
       "title": "Dune: Part Three",
@@ -255,7 +320,13 @@
         "City Centre Almaza",
         "Mall of Egypt"
       ],
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-28",
+      "notified_cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
+        "Mall of Egypt"
+      ],
+      "booking_open": true
     },
     "the-mongoose": {
       "title": "18TC The Mongoose",
@@ -263,7 +334,11 @@
       "cinemas": [
         "City Centre Almaza"
       ],
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-28",
+      "notified_cinemas": [
+        "City Centre Almaza"
+      ],
+      "booking_open": true
     },
     "sense-and-sensibility": {
       "title": "Sense and Sensibility",
@@ -271,7 +346,11 @@
       "cinemas": [
         "City Centre Almaza"
       ],
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-28",
+      "notified_cinemas": [
+        "City Centre Almaza"
+      ],
+      "booking_open": true
     },
     "the-influencer-project": {
       "title": "The Influencer Project",
@@ -279,7 +358,11 @@
       "cinemas": [
         "City Centre Almaza"
       ],
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-28",
+      "notified_cinemas": [
+        "City Centre Almaza"
+      ],
+      "booking_open": true
     },
     "wildwood": {
       "title": "Wildwood",
@@ -287,7 +370,11 @@
       "cinemas": [
         "City Centre Almaza"
       ],
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-28",
+      "notified_cinemas": [
+        "City Centre Almaza"
+      ],
+      "booking_open": true
     },
     "hope-korean": {
       "title": "Hope",
@@ -295,87 +382,121 @@
       "cinemas": [
         "City Centre Almaza"
       ],
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-28",
+      "notified_cinemas": [
+        "City Centre Almaza"
+      ],
+      "booking_open": true
     },
     "bts-world-tour-arirang-in-s-o-paulo-delayed": {
       "title": "BTS WORLD TOUR 'ARIRANG' IN SÃO PAULO: DELAYED",
       "alerted": false,
       "cinemas": [],
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-28",
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "godzilla-minus-zero-preview-screening-japanese": {
       "title": "Godzilla Minus Zero - Preview Screening",
       "alerted": false,
       "cinemas": [],
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-28",
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "the-cat-in-the-hat": {
       "title": "The Cat In The Hat",
       "alerted": false,
       "cinemas": [],
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-28",
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "godzilla-minus-zero-japanese": {
       "title": "Godzilla Minus Zero",
       "alerted": false,
       "cinemas": [],
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-28",
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "hadoota-arabic": {
       "title": "Hadoota",
       "alerted": false,
       "cinemas": [],
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-28",
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "the-hunger-games-sunrise-on-the-reaping": {
       "title": "The Hunger Games: Sunrise on the Reaping",
       "alerted": false,
       "cinemas": [],
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-28",
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "hexed": {
       "title": "Hexed",
       "alerted": false,
       "cinemas": [],
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-28",
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "violent-night-2": {
       "title": "Violent Night 2",
       "alerted": false,
       "cinemas": [],
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-28",
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "avengers-doomsday": {
       "title": "Avengers: Doomsday",
       "alerted": true,
       "cinemas": [
-        "City Centre Alexandria"
+        "City Centre Alexandria",
+        "City Centre Almaza"
       ],
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-28",
+      "notified_cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza"
+      ],
+      "booking_open": true
     },
     "jumanji-open-world": {
       "title": "Jumanji: Open World",
       "alerted": false,
       "cinemas": [],
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-28",
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "children-of-blood-and-bone": {
       "title": "Children of Blood and Bone",
       "alerted": false,
       "cinemas": [],
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-28",
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "narnia-the-magicians-nephew": {
       "title": "Narnia: The Magician's Nephew",
       "alerted": false,
       "cinemas": [],
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-28",
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "day-drinker": {
       "title": "Day Drinker",
       "alerted": false,
       "cinemas": [],
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-28",
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "matloub-3a2eleyain-arabic": {
       "title": "Matloub 3a2eleyain",
@@ -385,21 +506,35 @@
         "City Centre Almaza",
         "Mall of Egypt"
       ],
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-28",
+      "notified_cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
+        "Mall of Egypt"
+      ],
+      "booking_open": true
     },
     "moscow-cairo-arabic": {
       "title": "Moscow Cairo",
       "alerted": false,
       "cinemas": [],
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-28",
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "seventeen-world-tour-new": {
       "title": "SEVENTEEN WORLD TOUR 'NEW_'",
       "alerted": true,
       "cinemas": [
+        "City Centre Alexandria",
         "City Centre Almaza"
       ],
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-28",
+      "notified_cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza"
+      ],
+      "booking_open": true
     }
   },
   "initialized": true
