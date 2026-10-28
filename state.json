@@ -4,11 +4,13 @@
       "title": "Wala Kan Ala El-Bal",
       "alerted": true,
       "cinemas": [
-        "Mall of Egypt"
+        "City Centre Alexandria",
+        "City Centre Almaza"
       ],
       "last_seen": "2026-10-28",
       "notified_cinemas": [
-        "Mall of Egypt"
+        "City Centre Alexandria",
+        "City Centre Almaza"
       ],
       "booking_open": true
     },
