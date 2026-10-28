@@ -1,0 +1,5 @@
+.env
+.lock
+__pycache__/
+*.pyc
+subscribers.tmp

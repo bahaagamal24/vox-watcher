@@ -12,7 +12,9 @@ Usage:
   python vox.py --test          # check the site + send a test Telegram message
   python vox.py                 # normal run (cron runs this every 5 minutes)
 """
+import base64
 import fcntl
+import hashlib
 import json
 import os
 import re
@@ -24,6 +26,7 @@ from urllib.parse import urljoin, urlparse
 
 import requests
 from bs4 import BeautifulSoup
+from cryptography.fernet import Fernet
 
 BASE = "https://egy.voxcinemas.com"
 COMING_SOON_URL = BASE + "/movies/comingsoon"
@@ -33,6 +36,8 @@ HERE = Path(__file__).resolve().parent
 STATE_FILE = HERE / "state.json"
 ENV_FILE = HERE / ".env"
 LOCK_FILE = HERE / ".lock"
+SUBSCRIBERS_FILE = HERE / "subscribers.enc"
+SUBSCRIBERS = set()
 
 TIME_RE = re.compile(r"\b\d{1,2}:\d{2}\s*(?:am|pm)\b", re.I)
 SKIP_SLUGS = {"whatson", "comingsoon", "coming-soon", "now-showing"}
@@ -84,17 +89,81 @@ def log(msg):
     print(f"[{now_iso()}] {msg}", flush=True)
 
 
-def send(text):
-    if not TOKEN or not CHAT_ID:
-        log("Telegram not configured; message was: " + text)
-        return
+def send_to(chat_id, text):
     try:
         r = requests.post(f"https://api.telegram.org/bot{TOKEN}/sendMessage",
-                          json={"chat_id": CHAT_ID, "text": text}, timeout=20)
-        if not r.ok:
-            log(f"Telegram error {r.status_code}: {r.text}")
-    except Exception as e:  # never crash because of Telegram
-        log(f"Telegram send failed: {e}")
+                          json={"chat_id": chat_id, "text": text}, timeout=20)
+        if not r.ok or not r.json().get("ok"):
+            log(f"Telegram delivery failed (HTTP {r.status_code})")
+            return False
+        return True
+    except Exception as e:
+        # Request exceptions can include the bot token in the URL.
+        log(f"Telegram delivery failed ({type(e).__name__})")
+        return False
+
+
+def send(text):
+    recipients = SUBSCRIBERS | ({str(CHAT_ID)} if CHAT_ID else set())
+    if not TOKEN or not recipients:
+        log("Telegram not configured; message was: " + text)
+        return False
+    results = [send_to(chat_id, text) for chat_id in sorted(recipients)]
+    return all(results)
+
+
+def subscriber_cipher():
+    # Keep subscriber identifiers out of the public state file and Git history.
+    return Fernet(base64.urlsafe_b64encode(hashlib.sha256(TOKEN.encode()).digest()))
+
+
+def load_subscribers():
+    if not SUBSCRIBERS_FILE.exists():
+        return {"chat_ids": [], "offset": 0}
+    return json.loads(subscriber_cipher().decrypt(SUBSCRIBERS_FILE.read_bytes()))
+
+
+def sync_subscribers():
+    """Consume private /start and /stop messages once per watcher run."""
+    if not TOKEN:
+        return
+    registry = load_subscribers()
+    SUBSCRIBERS.clear()
+    SUBSCRIBERS.update(map(str, registry["chat_ids"]))
+    response = requests.get(f"https://api.telegram.org/bot{TOKEN}/getUpdates",
+                            params={"offset": registry["offset"], "timeout": 0,
+                                    "allowed_updates": json.dumps(["message"])}, timeout=20)
+    response.raise_for_status()
+    data = response.json()
+    if not data.get("ok"):
+        raise RuntimeError("Telegram getUpdates failed; check for a webhook or another polling bot")
+    updates = data.get("result", [])
+    for update in updates:
+        message = update.get("message", {})
+        chat = message.get("chat", {})
+        text = message.get("text", "").split()
+        command = text[0].split("@", 1)[0].lower() if text else ""
+        if chat.get("type") == "private" and command in {"/start", "/stop"}:
+            chat_id = str(chat["id"])
+            if command == "/start":
+                SUBSCRIBERS.add(chat_id)
+                send_to(chat_id, "👀 Subscribed! You'll receive VOX movie and booking alerts. Send /stop to unsubscribe.")
+            else:
+                SUBSCRIBERS.discard(chat_id)
+                send_to(chat_id, "Unsubscribed from VOX alerts.")
+        registry["offset"] = max(registry["offset"], update["update_id"] + 1)
+    if updates:
+        registry["chat_ids"] = sorted(SUBSCRIBERS)
+        tmp = SUBSCRIBERS_FILE.with_suffix(".tmp")
+        tmp.write_bytes(subscriber_cipher().encrypt(json.dumps(registry).encode()))
+        tmp.replace(SUBSCRIBERS_FILE)
+
+
+def prepare_subscribers():
+    try:
+        sync_subscribers()
+    except Exception as e:
+        log(f"Subscriber sync failed ({type(e).__name__}); check Telegram polling and the token used for subscribers.enc")
 
 
 def fetch(url):
@@ -177,6 +246,7 @@ def get_chat_id():
 
 
 def test():
+    prepare_subscribers()
     print(f"Using: {CLIENT}")
     print("Fetching Coming Soon...")
     soon = list_movies(fetch(COMING_SOON_URL))
@@ -189,11 +259,12 @@ def test():
         is_open, cinemas = booking_status(fetch(f"{BASE}/movies/{slug}"))
         print(f"  {title}: {'OPEN ' + str(cinemas) if is_open else 'not open'}")
         time.sleep(1)
-    send(f"✅ VOX watcher connected!\nComing Soon: {len(soon)} movies\nNow Showing: {len(showing)} movies")
-    print("Test message sent to Telegram (check your phone).")
+    delivered = send(f"✅ VOX watcher connected!\nComing Soon: {len(soon)} movies\nNow Showing: {len(showing)} movies")
+    print("Test message sent to Telegram." if delivered else "Telegram test message was not delivered to all recipients.")
 
 
 def run():
+    prepare_subscribers()
     state = load_state()
     baseline = not state.get("initialized")
     movies = state.setdefault("movies", {})
@@ -217,28 +288,38 @@ def run():
         # 2) Booking status
         for slug, info in movies.items():
             if slug not in listed:
+                info.update(booking_open=False, alerted=False, cinemas=[], notified_cinemas=[])
                 continue
-            if info.get("alerted") and slug in showing:
-                continue  # already open and now showing: nothing new to learn
             is_open, cinemas = booking_status(fetch(f"{BASE}/movies/{slug}"))
             time.sleep(1)
-            if not is_open:
+            rel = relevant(cinemas) if is_open else []
+            if not rel:
+                info.update(booking_open=False, alerted=False, cinemas=cinemas,
+                            notified_cinemas=[])
                 continue
-            known = set(info.get("cinemas", []))
+            # Old state tracked "ever alerted"; recheck it once on migration.
+            if not info.get("booking_open", False):
+                info["alerted"] = False
+                info["notified_cinemas"] = []
+            info["booking_open"] = True
+            info["cinemas"] = cinemas
+            known = set(info.get("notified_cinemas", [])) & set(cinemas)
+            info["notified_cinemas"] = sorted(known)
             new = [c for c in cinemas if c not in known]
-            info["cinemas"] = sorted(known | set(cinemas))
-            rel = relevant(cinemas)
             if baseline:
-                info["alerted"] = bool(rel)
-            elif not info.get("alerted") and rel:
                 info["alerted"] = True
+                info["notified_cinemas"] = cinemas
+            elif not info.get("alerted"):
                 where = ", ".join(cinemas) if cinemas else "see page"
-                send(f"🎟️ BOOKING OPEN: {info['title']}\nCinemas: {where}\n{BASE}/movies/{slug}")
-                log(f"Booking open: {info['title']}")
+                if send(f"🎟️ BOOKING OPEN: {info['title']}\nCinemas: {where}\n{BASE}/movies/{slug}"):
+                    info["alerted"] = True
+                    info["notified_cinemas"] = cinemas
+                    log(f"Booking open: {info['title']}")
             elif info.get("alerted"):
                 new_rel = relevant(new) if new else []
                 if new and new_rel and new_rel != ["(any)"]:
-                    send(f"➕ More showtimes for {info['title']}: {', '.join(new_rel)}\n{BASE}/movies/{slug}")
+                    if send(f"➕ More showtimes for {info['title']}: {', '.join(new_rel)}\n{BASE}/movies/{slug}"):
+                        info["notified_cinemas"] = sorted(known | set(cinemas))
 
         # Forget movies unlisted for a long time
         cutoff = time.time() - FORGET_AFTER_DAYS * 86400

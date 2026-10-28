@@ -28,7 +28,10 @@ jobs:
           python-version: "3.12"
 
       - name: Install
-        run: pip install requests beautifulsoup4 curl_cffi
+        run: pip install -r requirements.txt
+
+      - name: Regression tests
+        run: python -m unittest discover -s tests -v
 
       - name: Check VOX
         env:
@@ -38,10 +41,12 @@ jobs:
         run: python vox.py ${{ github.event.inputs.mode == 'test' && '--test' || '' }}
 
       - name: Save state
+        if: always()
         run: |
           git config user.name "vox-bot"
           git config user.email "vox-bot@users.noreply.github.com"
-          git add -A
+          git add state.json
+          if [ -f subscribers.enc ]; then git add subscribers.enc; fi
           git commit -m "update state" || exit 0
           git pull --rebase origin main
           git push
