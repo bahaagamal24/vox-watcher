@@ -4,12 +4,10 @@
       "title": "Wala Kan Ala El-Bal",
       "alerted": true,
       "cinemas": [
-        "City Centre Alexandria",
         "Mall of Egypt"
       ],
       "last_seen": "2026-10-28",
       "notified_cinemas": [
-        "City Centre Alexandria",
         "Mall of Egypt"
       ],
       "booking_open": true
@@ -32,11 +30,13 @@
       "title": "Whalefall",
       "alerted": true,
       "cinemas": [
-        "Mall of Egypt"
+        "City Centre Alexandria",
+        "City Centre Almaza"
       ],
       "last_seen": "2026-10-28",
       "notified_cinemas": [
-        "Mall of Egypt"
+        "City Centre Alexandria",
+        "City Centre Almaza"
       ],
       "booking_open": true
     },
@@ -84,11 +84,11 @@
       "title": "Street Fighter",
       "alerted": true,
       "cinemas": [
-        "Mall of Egypt"
+        "City Centre Almaza"
       ],
       "last_seen": "2026-10-28",
       "notified_cinemas": [
-        "Mall of Egypt"
+        "City Centre Almaza"
       ],
       "booking_open": true
     },
@@ -120,11 +120,13 @@
       "title": "Naseeb",
       "alerted": true,
       "cinemas": [
-        "Mall of Egypt"
+        "City Centre Alexandria",
+        "City Centre Almaza"
       ],
       "last_seen": "2026-10-28",
       "notified_cinemas": [
-        "Mall of Egypt"
+        "City Centre Alexandria",
+        "City Centre Almaza"
       ],
       "booking_open": true
     },
