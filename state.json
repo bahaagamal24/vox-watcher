@@ -178,11 +178,15 @@
     },
     "avengers-endgame-encore-infinity-vision": {
       "title": "Avengers Endgame: Encore (Infinity Vision)",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "Mall of Egypt"
+      ],
       "last_seen": "2026-10-28",
-      "booking_open": false,
-      "notified_cinemas": []
+      "booking_open": true,
+      "notified_cinemas": [
+        "Mall of Egypt"
+      ]
     },
     "shish-dou-arabic": {
       "title": "Shish Dou",
@@ -194,11 +198,15 @@
     },
     "spider-man-brand-new-day": {
       "title": "Spider-Man: Brand New Day",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "Mall of Egypt"
+      ],
       "last_seen": "2026-10-28",
-      "booking_open": false,
-      "notified_cinemas": []
+      "booking_open": true,
+      "notified_cinemas": [
+        "Mall of Egypt"
+      ]
     },
     "the-smurfs-timeless-adventure-volume-2": {
       "title": "The Smurfs Timeless Adventure Volume 2",
