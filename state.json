@@ -106,11 +106,17 @@
     },
     "resident-evil": {
       "title": "Resident Evil",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "City Centre Almaza",
+        "Mall of Egypt"
+      ],
       "last_seen": "2026-10-28",
-      "notified_cinemas": [],
-      "booking_open": false
+      "notified_cinemas": [
+        "City Centre Almaza",
+        "Mall of Egypt"
+      ],
+      "booking_open": true
     },
     "the-odyssey": {
       "title": "The Odyssey",
