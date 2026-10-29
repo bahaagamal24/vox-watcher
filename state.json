@@ -214,15 +214,11 @@
     },
     "the-smurfs-timeless-adventure-volume-2": {
       "title": "The Smurfs Timeless Adventure Volume 2",
-      "alerted": true,
-      "cinemas": [
-        "Mall of Egypt"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-10-29",
-      "booking_open": true,
-      "notified_cinemas": [
-        "Mall of Egypt"
-      ]
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "the-magic-faraway-tree": {
       "title": "The Magic Faraway Tree",
