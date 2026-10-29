@@ -210,11 +210,15 @@
     },
     "the-smurfs-timeless-adventure-volume-2": {
       "title": "The Smurfs Timeless Adventure Volume 2",
-      "alerted": false,
-      "cinemas": [],
-      "last_seen": "2026-10-28",
-      "booking_open": false,
-      "notified_cinemas": []
+      "alerted": true,
+      "cinemas": [
+        "Mall of Egypt"
+      ],
+      "last_seen": "2026-10-29",
+      "booking_open": true,
+      "notified_cinemas": [
+        "Mall of Egypt"
+      ]
     },
     "the-magic-faraway-tree": {
       "title": "The Magic Faraway Tree",
@@ -550,11 +554,15 @@
     },
     "moscow-cairo-arabic": {
       "title": "Moscow Cairo",
-      "alerted": false,
-      "cinemas": [],
-      "last_seen": "2026-10-28",
-      "booking_open": false,
-      "notified_cinemas": []
+      "alerted": true,
+      "cinemas": [
+        "Mall of Egypt"
+      ],
+      "last_seen": "2026-10-29",
+      "booking_open": true,
+      "notified_cinemas": [
+        "Mall of Egypt"
+      ]
     },
     "seventeen-world-tour-new": {
       "title": "SEVENTEEN WORLD TOUR 'NEW_'",
