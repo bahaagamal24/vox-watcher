@@ -585,6 +585,14 @@
       "last_seen": "2026-10-29",
       "booking_open": false,
       "notified_cinemas": []
+    },
+    "ebenezer": {
+      "title": "Ebenezer",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-10-29",
+      "booking_open": false,
+      "notified_cinemas": []
     }
   },
   "initialized": true
