@@ -4,10 +4,14 @@
       "title": "Wala Kan Ala El-Bal",
       "alerted": true,
       "cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-10-29",
       "notified_cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "booking_open": true
@@ -49,12 +53,14 @@
       "alerted": true,
       "cinemas": [
         "City Centre Alexandria",
-        "City Centre Almaza"
+        "City Centre Almaza",
+        "Mall of Egypt"
       ],
       "last_seen": "2026-10-29",
       "notified_cinemas": [
         "City Centre Alexandria",
-        "City Centre Almaza"
+        "City Centre Almaza",
+        "Mall of Egypt"
       ],
       "booking_open": true
     },
@@ -120,12 +126,14 @@
       "title": "The Odyssey",
       "alerted": true,
       "cinemas": [
-        "City Centre Almaza"
+        "City Centre Almaza",
+        "Mall of Egypt"
       ],
       "last_seen": "2026-10-29",
       "booking_open": true,
       "notified_cinemas": [
-        "City Centre Almaza"
+        "City Centre Almaza",
+        "Mall of Egypt"
       ]
     },
     "naseeb-arabic": {
@@ -208,12 +216,14 @@
       "title": "The Smurfs Timeless Adventure Volume 2",
       "alerted": true,
       "cinemas": [
-        "City Centre Almaza"
+        "City Centre Almaza",
+        "Mall of Egypt"
       ],
       "last_seen": "2026-10-29",
       "booking_open": true,
       "notified_cinemas": [
-        "City Centre Almaza"
+        "City Centre Almaza",
+        "Mall of Egypt"
       ]
     },
     "the-magic-faraway-tree": {
@@ -397,12 +407,14 @@
       "alerted": true,
       "cinemas": [
         "City Centre Alexandria",
-        "City Centre Almaza"
+        "City Centre Almaza",
+        "Mall of Egypt"
       ],
       "last_seen": "2026-10-29",
       "notified_cinemas": [
         "City Centre Alexandria",
-        "City Centre Almaza"
+        "City Centre Almaza",
+        "Mall of Egypt"
       ],
       "booking_open": true
     },
@@ -558,12 +570,14 @@
       "title": "Moscow Cairo",
       "alerted": true,
       "cinemas": [
-        "City Centre Almaza"
+        "City Centre Almaza",
+        "Mall of Egypt"
       ],
       "last_seen": "2026-10-29",
       "booking_open": true,
       "notified_cinemas": [
-        "City Centre Almaza"
+        "City Centre Almaza",
+        "Mall of Egypt"
       ]
     },
     "seventeen-world-tour-new": {
