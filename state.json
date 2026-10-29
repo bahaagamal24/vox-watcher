@@ -66,13 +66,11 @@
       "title": "Verity",
       "alerted": true,
       "cinemas": [
-        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-10-29",
       "notified_cinemas": [
-        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ],
@@ -315,12 +313,14 @@
       "alerted": true,
       "cinemas": [
         "City Centre Alexandria",
-        "City Centre Almaza"
+        "City Centre Almaza",
+        "Mall of Egypt"
       ],
       "last_seen": "2026-10-29",
       "notified_cinemas": [
         "City Centre Alexandria",
-        "City Centre Almaza"
+        "City Centre Almaza",
+        "Mall of Egypt"
       ],
       "booking_open": true
     },
@@ -481,12 +481,14 @@
       "alerted": true,
       "cinemas": [
         "City Centre Alexandria",
-        "City Centre Almaza"
+        "City Centre Almaza",
+        "Mall of Egypt"
       ],
       "last_seen": "2026-10-29",
       "notified_cinemas": [
         "City Centre Alexandria",
-        "City Centre Almaza"
+        "City Centre Almaza",
+        "Mall of Egypt"
       ],
       "booking_open": true
     },
