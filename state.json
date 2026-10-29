@@ -4,12 +4,10 @@
       "title": "Wala Kan Ala El-Bal",
       "alerted": true,
       "cinemas": [
-        "City Centre Alexandria",
         "Mall of Egypt"
       ],
       "last_seen": "2026-10-29",
       "notified_cinemas": [
-        "City Centre Alexandria",
         "Mall of Egypt"
       ],
       "booking_open": true
@@ -18,10 +16,14 @@
       "title": "Clayface",
       "alerted": true,
       "cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-10-29",
       "notified_cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "booking_open": true
@@ -56,11 +58,13 @@
       "title": "Verity",
       "alerted": true,
       "cinemas": [
+        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-10-29",
       "notified_cinemas": [
+        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ],
@@ -84,10 +88,12 @@
       "title": "Street Fighter",
       "alerted": true,
       "cinemas": [
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-10-29",
       "notified_cinemas": [
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "booking_open": true
@@ -394,10 +400,14 @@
       "title": "Hope",
       "alerted": true,
       "cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-10-29",
       "notified_cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "booking_open": true
@@ -523,14 +533,12 @@
       "alerted": true,
       "cinemas": [
         "City Centre Alexandria",
-        "City Centre Almaza",
-        "Mall of Egypt"
+        "City Centre Almaza"
       ],
       "last_seen": "2026-10-29",
       "notified_cinemas": [
         "City Centre Alexandria",
-        "City Centre Almaza",
-        "Mall of Egypt"
+        "City Centre Almaza"
       ],
       "booking_open": true
     },
