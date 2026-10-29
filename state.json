@@ -208,11 +208,15 @@
     },
     "the-smurfs-timeless-adventure-volume-2": {
       "title": "The Smurfs Timeless Adventure Volume 2",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "City Centre Almaza"
+      ],
       "last_seen": "2026-10-29",
-      "booking_open": false,
-      "notified_cinemas": []
+      "booking_open": true,
+      "notified_cinemas": [
+        "City Centre Almaza"
+      ]
     },
     "the-magic-faraway-tree": {
       "title": "The Magic Faraway Tree",
@@ -544,11 +548,15 @@
     },
     "moscow-cairo-arabic": {
       "title": "Moscow Cairo",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "City Centre Almaza"
+      ],
       "last_seen": "2026-10-29",
-      "booking_open": false,
-      "notified_cinemas": []
+      "booking_open": true,
+      "notified_cinemas": [
+        "City Centre Almaza"
+      ]
     },
     "seventeen-world-tour-new": {
       "title": "SEVENTEEN WORLD TOUR 'NEW_'",
