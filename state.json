@@ -548,17 +548,11 @@
     },
     "moscow-cairo-arabic": {
       "title": "Moscow Cairo",
-      "alerted": true,
-      "cinemas": [
-        "City Centre Almaza",
-        "Mall of Egypt"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-10-29",
-      "booking_open": true,
-      "notified_cinemas": [
-        "City Centre Almaza",
-        "Mall of Egypt"
-      ]
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "seventeen-world-tour-new": {
       "title": "SEVENTEEN WORLD TOUR 'NEW_'",
