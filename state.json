@@ -80,10 +80,12 @@
       "title": "Heart of the Beast",
       "alerted": true,
       "cinemas": [
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-10-29",
       "notified_cinemas": [
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "booking_open": true
@@ -281,11 +283,13 @@
       "alerted": true,
       "cinemas": [
         "City Centre Alexandria",
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-10-29",
       "notified_cinemas": [
         "City Centre Alexandria",
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "booking_open": true
@@ -416,11 +420,15 @@
     },
     "godzilla-minus-zero-preview-screening-japanese": {
       "title": "Godzilla Minus Zero - Preview Screening",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "City Centre Almaza"
+      ],
       "last_seen": "2026-10-29",
-      "booking_open": false,
-      "notified_cinemas": []
+      "booking_open": true,
+      "notified_cinemas": [
+        "City Centre Almaza"
+      ]
     },
     "the-cat-in-the-hat": {
       "title": "The Cat In The Hat",
@@ -546,10 +554,14 @@
       "title": "SEVENTEEN WORLD TOUR 'NEW_'",
       "alerted": true,
       "cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-10-29",
       "notified_cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "booking_open": true
