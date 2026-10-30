@@ -20,10 +20,14 @@
       "title": "Clayface",
       "alerted": true,
       "cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-10-30",
       "notified_cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "booking_open": true
@@ -58,12 +62,10 @@
       "title": "Verity",
       "alerted": true,
       "cinemas": [
-        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-10-30",
       "notified_cinemas": [
-        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "booking_open": true
@@ -398,13 +400,11 @@
       "title": "Hope",
       "alerted": true,
       "cinemas": [
-        "City Centre Alexandria",
-        "Mall of Egypt"
+        "City Centre Alexandria"
       ],
       "last_seen": "2026-10-30",
       "notified_cinemas": [
-        "City Centre Alexandria",
-        "Mall of Egypt"
+        "City Centre Alexandria"
       ],
       "booking_open": true
     },
