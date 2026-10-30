@@ -212,12 +212,14 @@
       "title": "The Smurfs Timeless Adventure Volume 2",
       "alerted": true,
       "cinemas": [
-        "City Centre Almaza"
+        "City Centre Almaza",
+        "Mall of Egypt"
       ],
       "last_seen": "2026-10-30",
       "booking_open": true,
       "notified_cinemas": [
-        "City Centre Almaza"
+        "City Centre Almaza",
+        "Mall of Egypt"
       ]
     },
     "the-magic-faraway-tree": {
@@ -350,13 +352,11 @@
       "title": "18TC The Mongoose",
       "alerted": true,
       "cinemas": [
-        "City Centre Almaza",
-        "Mall of Egypt"
+        "City Centre Almaza"
       ],
       "last_seen": "2026-10-30",
       "notified_cinemas": [
-        "City Centre Almaza",
-        "Mall of Egypt"
+        "City Centre Almaza"
       ],
       "booking_open": true
     },
