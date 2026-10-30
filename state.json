@@ -106,10 +106,12 @@
       "title": "Resident Evil",
       "alerted": true,
       "cinemas": [
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-10-30",
       "notified_cinemas": [
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "booking_open": true
@@ -364,12 +366,10 @@
       "title": "Sense and Sensibility",
       "alerted": true,
       "cinemas": [
-        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-10-30",
       "notified_cinemas": [
-        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "booking_open": true
