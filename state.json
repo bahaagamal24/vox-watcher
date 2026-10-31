@@ -122,14 +122,12 @@
       "title": "The Odyssey",
       "alerted": true,
       "cinemas": [
-        "City Centre Almaza",
-        "Mall of Egypt"
+        "City Centre Almaza"
       ],
       "last_seen": "2026-10-31",
       "booking_open": true,
       "notified_cinemas": [
-        "City Centre Almaza",
-        "Mall of Egypt"
+        "City Centre Almaza"
       ]
     },
     "naseeb-arabic": {
