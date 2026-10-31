@@ -34,13 +34,11 @@
       "title": "Whalefall",
       "alerted": true,
       "cinemas": [
-        "City Centre Almaza",
-        "Mall of Egypt"
+        "City Centre Almaza"
       ],
       "last_seen": "2026-10-31",
       "notified_cinemas": [
-        "City Centre Almaza",
-        "Mall of Egypt"
+        "City Centre Almaza"
       ],
       "booking_open": true
     },
@@ -338,12 +336,10 @@
       "title": "Sense and Sensibility",
       "alerted": true,
       "cinemas": [
-        "City Centre Alexandria",
         "Mall of Egypt"
       ],
       "last_seen": "2026-10-31",
       "notified_cinemas": [
-        "City Centre Alexandria",
         "Mall of Egypt"
       ],
       "booking_open": true
