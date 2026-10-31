@@ -292,17 +292,11 @@
     },
     "hybe-cheering-party-3d": {
       "title": "HYBE CHEERING PARTY 3D",
-      "alerted": true,
-      "cinemas": [
-        "City Centre Alexandria",
-        "City Centre Almaza"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-10-31",
-      "notified_cinemas": [
-        "City Centre Alexandria",
-        "City Centre Almaza"
-      ],
-      "booking_open": true
+      "notified_cinemas": [],
+      "booking_open": false
     },
     "bts-world-tour-arirang-in-s-o-paulo-live": {
       "title": "BTS WORLD TOUR 'ARIRANG' IN SÃO PAULO: LIVE",
