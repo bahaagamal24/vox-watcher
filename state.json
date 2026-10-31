@@ -581,6 +581,22 @@
       "last_seen": "2026-10-31",
       "booking_open": false,
       "notified_cinemas": []
+    },
+    "bts-world-tour-arirang-in-kaohsiung-live-viewin": {
+      "title": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWIN",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-10-31",
+      "booking_open": false,
+      "notified_cinemas": []
+    },
+    "bts-world-tour-arirang-in-jakarta-live-viewing": {
+      "title": "BTS WORLD TOUR 'ARIRANG' IN JAKARTA: LIVE VIEWING",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-10-31",
+      "booking_open": false,
+      "notified_cinemas": []
     }
   },
   "initialized": true
