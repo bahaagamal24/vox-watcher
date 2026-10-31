@@ -308,19 +308,11 @@
     },
     "bts-world-tour-arirang-in-s-o-paulo-live": {
       "title": "BTS WORLD TOUR 'ARIRANG' IN SÃO PAULO: LIVE",
-      "alerted": true,
-      "cinemas": [
-        "City Centre Alexandria",
-        "City Centre Almaza",
-        "Mall of Egypt"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-10-31",
-      "notified_cinemas": [
-        "City Centre Alexandria",
-        "City Centre Almaza",
-        "Mall of Egypt"
-      ],
-      "booking_open": true
+      "notified_cinemas": [],
+      "booking_open": false
     },
     "avengers-doomsday-infinity-vision": {
       "title": "Avengers: Doomsday (Infinity Vision)",
