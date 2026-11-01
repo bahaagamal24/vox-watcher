@@ -339,13 +339,11 @@
       "alerted": true,
       "cinemas": [
         "City Centre Alexandria",
-        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-01",
       "notified_cinemas": [
         "City Centre Alexandria",
-        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "booking_open": true
