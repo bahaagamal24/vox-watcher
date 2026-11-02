@@ -597,6 +597,30 @@
       "last_seen": "2026-11-02",
       "booking_open": false,
       "notified_cinemas": []
+    },
+    "a-talent-for-murder": {
+      "title": "A Talent for Murder",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-11-02",
+      "booking_open": false,
+      "notified_cinemas": []
+    },
+    "idiots": {
+      "title": "Idiots",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-11-02",
+      "booking_open": false,
+      "notified_cinemas": []
+    },
+    "the-cycle": {
+      "title": "The Cycle",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-11-02",
+      "booking_open": false,
+      "notified_cinemas": []
     }
   },
   "initialized": true
