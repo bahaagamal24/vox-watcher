@@ -617,6 +617,22 @@
       "last_seen": "2026-11-02",
       "booking_open": false,
       "notified_cinemas": []
+    },
+    "ramayana-hindi": {
+      "title": "Ramayana",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-11-02",
+      "booking_open": false,
+      "notified_cinemas": []
+    },
+    "ramayana-english": {
+      "title": "Ramayana - English",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-11-02",
+      "booking_open": false,
+      "notified_cinemas": []
     }
   },
   "initialized": true
