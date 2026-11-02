@@ -382,13 +382,11 @@
       "title": "Wildwood",
       "alerted": true,
       "cinemas": [
-        "City Centre Alexandria",
-        "Mall of Egypt"
+        "City Centre Alexandria"
       ],
       "last_seen": "2026-11-02",
       "notified_cinemas": [
-        "City Centre Alexandria",
-        "Mall of Egypt"
+        "City Centre Alexandria"
       ],
       "booking_open": true
     },
