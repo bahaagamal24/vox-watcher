@@ -82,13 +82,11 @@
       "title": "Heart of the Beast",
       "alerted": true,
       "cinemas": [
-        "City Centre Almaza",
-        "Mall of Egypt"
+        "City Centre Almaza"
       ],
       "last_seen": "2026-11-02",
       "notified_cinemas": [
-        "City Centre Almaza",
-        "Mall of Egypt"
+        "City Centre Almaza"
       ],
       "booking_open": true
     },
@@ -364,13 +362,11 @@
       "title": "The Influencer Project",
       "alerted": true,
       "cinemas": [
-        "City Centre Almaza",
-        "Mall of Egypt"
+        "City Centre Almaza"
       ],
       "last_seen": "2026-11-02",
       "notified_cinemas": [
-        "City Centre Almaza",
-        "Mall of Egypt"
+        "City Centre Almaza"
       ],
       "booking_open": true
     },
