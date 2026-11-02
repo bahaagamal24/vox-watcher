@@ -605,7 +605,5 @@
       "notified_cinemas": []
     }
   },
-  "initialized": true,
-  "fail_count": 28,
-  "fail_alerted": true
+  "initialized": true
 }
