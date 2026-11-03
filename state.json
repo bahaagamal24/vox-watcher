@@ -124,13 +124,11 @@
       "title": "The Odyssey",
       "alerted": true,
       "cinemas": [
-        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-03",
       "booking_open": true,
       "notified_cinemas": [
-        "City Centre Almaza",
         "Mall of Egypt"
       ]
     },
@@ -272,12 +270,10 @@
       "title": "The Dino Family",
       "alerted": true,
       "cinemas": [
-        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-03",
       "notified_cinemas": [
-        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "booking_open": true
