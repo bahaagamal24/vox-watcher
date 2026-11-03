@@ -48,10 +48,14 @@
       "title": "Other Mommy",
       "alerted": true,
       "cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-03",
       "notified_cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "booking_open": true
@@ -88,12 +92,10 @@
       "title": "Street Fighter",
       "alerted": true,
       "cinemas": [
-        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-03",
       "notified_cinemas": [
-        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "booking_open": true
@@ -130,13 +132,11 @@
       "title": "Naseeb",
       "alerted": true,
       "cinemas": [
-        "City Centre Alexandria",
-        "Mall of Egypt"
+        "City Centre Alexandria"
       ],
       "last_seen": "2026-11-03",
       "notified_cinemas": [
-        "City Centre Alexandria",
-        "Mall of Egypt"
+        "City Centre Alexandria"
       ],
       "booking_open": true
     },
@@ -534,12 +534,14 @@
       "title": "Moscow Cairo",
       "alerted": true,
       "cinemas": [
-        "City Centre Almaza"
+        "City Centre Almaza",
+        "Mall of Egypt"
       ],
       "last_seen": "2026-11-03",
       "booking_open": true,
       "notified_cinemas": [
-        "City Centre Almaza"
+        "City Centre Almaza",
+        "Mall of Egypt"
       ]
     },
     "seventeen-world-tour-new": {
