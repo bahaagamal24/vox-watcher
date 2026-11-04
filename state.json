@@ -639,6 +639,14 @@
       "last_seen": "2026-11-04",
       "booking_open": false,
       "notified_cinemas": []
+    },
+    "mamsous-arabic": {
+      "title": "Mamsous",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-11-04",
+      "booking_open": false,
+      "notified_cinemas": []
     }
   },
   "initialized": true
