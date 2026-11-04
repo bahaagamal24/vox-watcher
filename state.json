@@ -182,15 +182,11 @@
     },
     "spider-man-brand-new-day": {
       "title": "Spider-Man: Brand New Day",
-      "alerted": true,
-      "cinemas": [
-        "Mall of Egypt"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-04",
-      "booking_open": true,
-      "notified_cinemas": [
-        "Mall of Egypt"
-      ]
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "the-smurfs-timeless-adventure-volume-2": {
       "title": "The Smurfs Timeless Adventure Volume 2",
