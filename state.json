@@ -448,11 +448,13 @@
       "title": "Hadoota",
       "alerted": true,
       "cinemas": [
+        "City Centre Alexandria",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-04",
       "booking_open": true,
       "notified_cinemas": [
+        "City Centre Alexandria",
         "Mall of Egypt"
       ]
     },
