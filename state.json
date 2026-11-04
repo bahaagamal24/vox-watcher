@@ -168,15 +168,11 @@
     },
     "avengers-endgame-encore-infinity-vision": {
       "title": "Avengers Endgame: Encore (Infinity Vision)",
-      "alerted": true,
-      "cinemas": [
-        "Mall of Egypt"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-04",
-      "booking_open": true,
-      "notified_cinemas": [
-        "Mall of Egypt"
-      ]
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "shish-dou-arabic": {
       "title": "Shish Dou",
