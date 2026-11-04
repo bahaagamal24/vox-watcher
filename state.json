@@ -168,15 +168,11 @@
     },
     "avengers-endgame-encore-infinity-vision": {
       "title": "Avengers Endgame: Encore (Infinity Vision)",
-      "alerted": true,
-      "cinemas": [
-        "Mall of Egypt"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-04",
-      "booking_open": true,
-      "notified_cinemas": [
-        "Mall of Egypt"
-      ]
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "shish-dou-arabic": {
       "title": "Shish Dou",
@@ -644,11 +640,15 @@
     },
     "the-cat-in-the-hat-arabic": {
       "title": "The Cat In The Hat",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "Mall of Egypt"
+      ],
       "last_seen": "2026-11-04",
-      "notified_cinemas": [],
-      "booking_open": false
+      "notified_cinemas": [
+        "Mall of Egypt"
+      ],
+      "booking_open": true
     }
   },
   "initialized": true
