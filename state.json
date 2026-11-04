@@ -92,17 +92,11 @@
     },
     "street-fighter": {
       "title": "Street Fighter",
-      "alerted": true,
-      "cinemas": [
-        "City Centre Almaza",
-        "Mall of Egypt"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-04",
-      "notified_cinemas": [
-        "City Centre Almaza",
-        "Mall of Egypt"
-      ],
-      "booking_open": true
+      "notified_cinemas": [],
+      "booking_open": false
     },
     "resident-evil": {
       "title": "Resident Evil",
