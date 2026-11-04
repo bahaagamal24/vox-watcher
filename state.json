@@ -154,15 +154,11 @@
     },
     "mahmoud-el-tany-arabic": {
       "title": "Mahmoud El Tany",
-      "alerted": true,
-      "cinemas": [
-        "City Centre Almaza"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-04",
-      "notified_cinemas": [
-        "City Centre Almaza"
-      ],
-      "booking_open": true
+      "notified_cinemas": [],
+      "booking_open": false
     },
     "red-flag-arabic": {
       "title": "Red Flag",
