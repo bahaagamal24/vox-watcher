@@ -376,13 +376,11 @@
       "title": "The Cat In The Hat",
       "alerted": true,
       "cinemas": [
-        "City Centre Alexandria",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-05",
       "booking_open": true,
       "notified_cinemas": [
-        "City Centre Alexandria",
         "Mall of Egypt"
       ]
     },
