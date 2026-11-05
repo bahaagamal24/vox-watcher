@@ -609,6 +609,14 @@
         "Mall of Egypt"
       ],
       "booking_open": true
+    },
+    "how-to-rob-a-bank": {
+      "title": "How to Rob a Bank",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-11-05",
+      "booking_open": false,
+      "notified_cinemas": []
     }
   },
   "initialized": true
