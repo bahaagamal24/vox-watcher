@@ -644,19 +644,11 @@
     },
     "the-cat-in-the-hat-arabic": {
       "title": "The Cat In The Hat",
-      "alerted": true,
-      "cinemas": [
-        "City Centre Alexandria",
-        "City Centre Almaza",
-        "Mall of Egypt"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-08",
-      "notified_cinemas": [
-        "City Centre Alexandria",
-        "City Centre Almaza",
-        "Mall of Egypt"
-      ],
-      "booking_open": true
+      "notified_cinemas": [],
+      "booking_open": false
     },
     "how-to-rob-a-bank": {
       "title": "How to Rob a Bank",
