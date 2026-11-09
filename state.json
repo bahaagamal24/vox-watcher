@@ -20,12 +20,10 @@
       "title": "Clayface",
       "alerted": true,
       "cinemas": [
-        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-09",
       "notified_cinemas": [
-        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "booking_open": true
@@ -334,11 +332,13 @@
       "title": "Wildwood",
       "alerted": true,
       "cinemas": [
-        "City Centre Almaza"
+        "City Centre Almaza",
+        "Mall of Egypt"
       ],
       "last_seen": "2026-11-09",
       "notified_cinemas": [
-        "City Centre Almaza"
+        "City Centre Almaza",
+        "Mall of Egypt"
       ],
       "booking_open": true
     },
