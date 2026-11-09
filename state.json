@@ -36,13 +36,11 @@
       "title": "Whalefall",
       "alerted": true,
       "cinemas": [
-        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-09",
       "notified_cinemas": [
-        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ],
@@ -821,8 +819,63 @@
       "last_seen": "2026-11-09",
       "booking_open": false,
       "notified_cinemas": []
+    },
+    "ciff-2026-the-people-and-the-nile-arabic": {
+      "title": "CIFF 2026: The People and The Nile",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-11-09",
+      "booking_open": false,
+      "notified_cinemas": []
+    },
+    "ciff-2026-the-mirage-arabic": {
+      "title": "CIFF 2026: The Mirage",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-11-09",
+      "booking_open": false,
+      "notified_cinemas": []
+    },
+    "ciff-2026-fleak-finnish": {
+      "title": "CIFF 2026: Fleak",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-11-09",
+      "booking_open": false,
+      "notified_cinemas": []
+    },
+    "ciff-2026-the-female-idol-arabic": {
+      "title": "CIFF 2026: The Female Idol",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-11-09",
+      "booking_open": false,
+      "notified_cinemas": []
+    },
+    "ciff-2026-summer-meadow-french-arabic": {
+      "title": "CIFF 2026: Summer Meadow",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-11-09",
+      "booking_open": false,
+      "notified_cinemas": []
+    },
+    "ciff-2026-shafika-the-copt-arabic": {
+      "title": "CIFF 2026: Shafika the Copt",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-11-09",
+      "booking_open": false,
+      "notified_cinemas": []
+    },
+    "ciff-2026-the-second-wife-arabic": {
+      "title": "CIFF 2026: The Second Wife",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-11-09",
+      "booking_open": false,
+      "notified_cinemas": []
     }
   },
-  "initialized": true,
-  "fail_count": 1
+  "initialized": true
 }
