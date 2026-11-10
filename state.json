@@ -881,6 +881,14 @@
       "last_seen": "2026-11-10",
       "booking_open": false,
       "notified_cinemas": []
+    },
+    "best-pancakes-in-the-county": {
+      "title": "Best Pancakes in the County",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-11-10",
+      "booking_open": false,
+      "notified_cinemas": []
     }
   },
   "initialized": true
