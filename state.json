@@ -796,11 +796,15 @@
     },
     "ciff-2026-home-bitter-home-arabic": {
       "title": "CIFF 2026: Home Bitter Home",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "Mall of Egypt"
+      ],
       "last_seen": "2026-11-10",
-      "booking_open": false,
-      "notified_cinemas": []
+      "booking_open": true,
+      "notified_cinemas": [
+        "Mall of Egypt"
+      ]
     },
     "ciff-2026-the-mirage-finnish": {
       "title": "CIFF 2026: The Mirage",
@@ -820,11 +824,15 @@
     },
     "ciff-2026-the-people-and-the-nile-arabic": {
       "title": "CIFF 2026: The People and The Nile",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "Mall of Egypt"
+      ],
       "last_seen": "2026-11-10",
-      "booking_open": false,
-      "notified_cinemas": []
+      "booking_open": true,
+      "notified_cinemas": [
+        "Mall of Egypt"
+      ]
     },
     "ciff-2026-the-mirage-arabic": {
       "title": "CIFF 2026: The Mirage",
@@ -836,11 +844,15 @@
     },
     "ciff-2026-fleak-finnish": {
       "title": "CIFF 2026: Fleak",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "Mall of Egypt"
+      ],
       "last_seen": "2026-11-10",
-      "booking_open": false,
-      "notified_cinemas": []
+      "booking_open": true,
+      "notified_cinemas": [
+        "Mall of Egypt"
+      ]
     },
     "ciff-2026-the-female-idol-arabic": {
       "title": "CIFF 2026: The Female Idol",
@@ -884,11 +896,15 @@
     },
     "best-pancakes-in-the-county": {
       "title": "Best Pancakes in the County",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "Mall of Egypt"
+      ],
       "last_seen": "2026-11-10",
-      "booking_open": false,
-      "notified_cinemas": []
+      "booking_open": true,
+      "notified_cinemas": [
+        "Mall of Egypt"
+      ]
     }
   },
   "initialized": true
