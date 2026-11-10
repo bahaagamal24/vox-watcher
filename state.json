@@ -36,10 +36,12 @@
       "title": "Whalefall",
       "alerted": true,
       "cinemas": [
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-10",
       "notified_cinemas": [
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "booking_open": true
@@ -584,11 +586,13 @@
       "title": "The Cycle",
       "alerted": true,
       "cinemas": [
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-10",
       "booking_open": true,
       "notified_cinemas": [
+        "City Centre Almaza",
         "Mall of Egypt"
       ]
     },
