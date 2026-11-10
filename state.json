@@ -879,8 +879,15 @@
       "last_seen": "2026-11-10",
       "booking_open": false,
       "notified_cinemas": []
+    },
+    "ciff-2026-the-violinist-english-japanese": {
+      "title": "CIFF 2026: The Violinist",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-11-10",
+      "booking_open": false,
+      "notified_cinemas": []
     }
   },
-  "initialized": true,
-  "fail_count": 1
+  "initialized": true
 }
