@@ -728,19 +728,27 @@
     },
     "ciff-2026-my-wife-and-the-dog-arabic": {
       "title": "CIFF 2026: My Wife and the Dog",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "City Centre Almaza"
+      ],
       "last_seen": "2026-11-11",
-      "booking_open": false,
-      "notified_cinemas": []
+      "booking_open": true,
+      "notified_cinemas": [
+        "City Centre Almaza"
+      ]
     },
     "ciff-2026-fatma-and-the-abdelwahab-plan-arabic": {
       "title": "CIFF 2026: Fatma and the Abdelwahab Plan",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "City Centre Almaza"
+      ],
       "last_seen": "2026-11-11",
-      "booking_open": false,
-      "notified_cinemas": []
+      "booking_open": true,
+      "notified_cinemas": [
+        "City Centre Almaza"
+      ]
     },
     "ciff-2026-night-and-jail-bars-arabic": {
       "title": "CIFF 2026: Night and Jail Bars",
@@ -756,11 +764,15 @@
     },
     "ciff-2026-palace-of-desire-arabic": {
       "title": "CIFF 2026: Palace of Desire",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "City Centre Almaza"
+      ],
       "last_seen": "2026-11-11",
-      "booking_open": false,
-      "notified_cinemas": []
+      "booking_open": true,
+      "notified_cinemas": [
+        "City Centre Almaza"
+      ]
     },
     "ciff-2026-the-sin-arabic": {
       "title": "CIFF 2026: The Sin",
@@ -788,11 +800,15 @@
     },
     "ciff-2026-my-wife-general-manager-arabic": {
       "title": "CIFF 2026: My Wife, General Manager",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "City Centre Almaza"
+      ],
       "last_seen": "2026-11-11",
-      "booking_open": false,
-      "notified_cinemas": []
+      "booking_open": true,
+      "notified_cinemas": [
+        "City Centre Almaza"
+      ]
     },
     "ciff-2026-the-violinist-arabic-japanese": {
       "title": "CIFF 2026: The Violinist",
@@ -820,11 +836,15 @@
     },
     "ciff-2026-the-lamp-of-umm-hashim-arabic": {
       "title": "CIFF 2026: The Lamp of Umm Hashim",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "City Centre Almaza"
+      ],
       "last_seen": "2026-11-11",
-      "booking_open": false,
-      "notified_cinemas": []
+      "booking_open": true,
+      "notified_cinemas": [
+        "City Centre Almaza"
+      ]
     },
     "ciff-2026-home-bitter-home-arabic": {
       "title": "CIFF 2026: Home Bitter Home",
@@ -848,11 +868,15 @@
     },
     "ciff-2026-to-the-sun-and-beyond-tunisian-arabic": {
       "title": "CIFF 2026: To the Sun and Beyond",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "City Centre Almaza"
+      ],
       "last_seen": "2026-11-11",
-      "booking_open": false,
-      "notified_cinemas": []
+      "booking_open": true,
+      "notified_cinemas": [
+        "City Centre Almaza"
+      ]
     },
     "ciff-2026-the-people-and-the-nile-arabic": {
       "title": "CIFF 2026: The People and The Nile",
@@ -868,11 +892,15 @@
     },
     "ciff-2026-the-mirage-arabic": {
       "title": "CIFF 2026: The Mirage",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "City Centre Almaza"
+      ],
       "last_seen": "2026-11-11",
-      "booking_open": false,
-      "notified_cinemas": []
+      "booking_open": true,
+      "notified_cinemas": [
+        "City Centre Almaza"
+      ]
     },
     "ciff-2026-fleak-finnish": {
       "title": "CIFF 2026: Fleak",
@@ -896,11 +924,15 @@
     },
     "ciff-2026-summer-meadow-french-arabic": {
       "title": "CIFF 2026: Summer Meadow",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "City Centre Almaza"
+      ],
       "last_seen": "2026-11-11",
-      "booking_open": false,
-      "notified_cinemas": []
+      "booking_open": true,
+      "notified_cinemas": [
+        "City Centre Almaza"
+      ]
     },
     "ciff-2026-shafika-the-copt-arabic": {
       "title": "CIFF 2026: Shafika the Copt",
