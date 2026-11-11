@@ -76,15 +76,11 @@
     },
     "street-fighter": {
       "title": "Street Fighter",
-      "alerted": true,
-      "cinemas": [
-        "City Centre Almaza"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-11",
-      "notified_cinemas": [
-        "City Centre Almaza"
-      ],
-      "booking_open": true
+      "notified_cinemas": [],
+      "booking_open": false
     },
     "resident-evil": {
       "title": "Resident Evil",
@@ -100,15 +96,11 @@
     },
     "the-odyssey": {
       "title": "The Odyssey",
-      "alerted": true,
-      "cinemas": [
-        "City Centre Almaza"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-11",
-      "booking_open": true,
-      "notified_cinemas": [
-        "City Centre Almaza"
-      ]
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "naseeb-arabic": {
       "title": "Naseeb",
@@ -576,15 +568,11 @@
     },
     "ramayana-hindi": {
       "title": "Ramayana",
-      "alerted": true,
-      "cinemas": [
-        "Mall of Egypt"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-11",
-      "booking_open": true,
-      "notified_cinemas": [
-        "Mall of Egypt"
-      ]
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "ramayana-english": {
       "title": "Ramayana - English",
