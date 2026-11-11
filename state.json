@@ -4,13 +4,11 @@
       "title": "Wala Kan Ala El-Bal",
       "alerted": true,
       "cinemas": [
-        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-11",
       "notified_cinemas": [
-        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ],
@@ -20,13 +18,11 @@
       "title": "Clayface",
       "alerted": true,
       "cinemas": [
-        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-11",
       "notified_cinemas": [
-        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ],
@@ -107,13 +103,11 @@
       "alerted": true,
       "cinemas": [
         "City Centre Alexandria",
-        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-11",
       "notified_cinemas": [
         "City Centre Alexandria",
-        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "booking_open": true
@@ -216,15 +210,11 @@
     },
     "the-dino-family": {
       "title": "The Dino Family",
-      "alerted": true,
-      "cinemas": [
-        "Mall of Egypt"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-11",
-      "notified_cinemas": [
-        "Mall of Egypt"
-      ],
-      "booking_open": true
+      "notified_cinemas": [],
+      "booking_open": false
     },
     "enhypen-world-tour-blood-saga": {
       "title": "ENHYPEN WORLD TOUR 'BLOOD SAGA'",
@@ -294,13 +284,11 @@
       "title": "Sense and Sensibility",
       "alerted": true,
       "cinemas": [
-        "City Centre Almaza",
-        "Mall of Egypt"
+        "City Centre Almaza"
       ],
       "last_seen": "2026-11-11",
       "notified_cinemas": [
-        "City Centre Almaza",
-        "Mall of Egypt"
+        "City Centre Almaza"
       ],
       "booking_open": true
     },
@@ -348,11 +336,15 @@
       "title": "The Cat In The Hat",
       "alerted": true,
       "cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-11",
       "booking_open": true,
       "notified_cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
         "Mall of Egypt"
       ]
     },
@@ -376,14 +368,12 @@
       "title": "Hadoota",
       "alerted": true,
       "cinemas": [
-        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-11",
       "booking_open": true,
       "notified_cinemas": [
-        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ]
@@ -464,13 +454,11 @@
       "title": "Matloub 3a2eleyain",
       "alerted": true,
       "cinemas": [
-        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-11",
       "notified_cinemas": [
-        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ],
@@ -542,15 +530,11 @@
     },
     "idiots": {
       "title": "Idiots",
-      "alerted": true,
-      "cinemas": [
-        "Mall of Egypt"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-11",
-      "booking_open": true,
-      "notified_cinemas": [
-        "Mall of Egypt"
-      ]
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "the-cycle": {
       "title": "The Cycle",
