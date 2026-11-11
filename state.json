@@ -4,11 +4,13 @@
       "title": "Wala Kan Ala El-Bal",
       "alerted": true,
       "cinemas": [
+        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-11",
       "notified_cinemas": [
+        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ],
@@ -18,11 +20,13 @@
       "title": "Clayface",
       "alerted": true,
       "cinemas": [
+        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-11",
       "notified_cinemas": [
+        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ],
@@ -92,22 +96,24 @@
     },
     "the-odyssey": {
       "title": "The Odyssey",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "City Centre Almaza"
+      ],
       "last_seen": "2026-11-11",
-      "booking_open": false,
-      "notified_cinemas": []
+      "booking_open": true,
+      "notified_cinemas": [
+        "City Centre Almaza"
+      ]
     },
     "naseeb-arabic": {
       "title": "Naseeb",
       "alerted": true,
       "cinemas": [
-        "City Centre Alexandria",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-11",
       "notified_cinemas": [
-        "City Centre Alexandria",
         "Mall of Egypt"
       ],
       "booking_open": true
@@ -368,12 +374,14 @@
       "title": "Hadoota",
       "alerted": true,
       "cinemas": [
+        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-11",
       "booking_open": true,
       "notified_cinemas": [
+        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ]
@@ -454,11 +462,13 @@
       "title": "Matloub 3a2eleyain",
       "alerted": true,
       "cinemas": [
+        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-11",
       "notified_cinemas": [
+        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ],
