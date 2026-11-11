@@ -344,15 +344,11 @@
     },
     "hope-korean": {
       "title": "Hope",
-      "alerted": true,
-      "cinemas": [
-        "Mall of Egypt"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-11",
-      "notified_cinemas": [
-        "Mall of Egypt"
-      ],
-      "booking_open": true
+      "notified_cinemas": [],
+      "booking_open": false
     },
     "bts-world-tour-arirang-in-s-o-paulo-delayed": {
       "title": "BTS WORLD TOUR 'ARIRANG' IN SÃO PAULO: DELAYED",
