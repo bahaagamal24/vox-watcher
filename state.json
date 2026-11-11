@@ -686,19 +686,27 @@
     },
     "ciff-2026-a-woman-on-the-road-arabic": {
       "title": "CIFF 2026: A Woman on the Road",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "City Centre Almaza"
+      ],
       "last_seen": "2026-11-11",
-      "booking_open": false,
-      "notified_cinemas": []
+      "booking_open": true,
+      "notified_cinemas": [
+        "City Centre Almaza"
+      ]
     },
     "ciff-2026-the-impossible-arabic": {
       "title": "CIFF 2026: The Impossible",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "City Centre Almaza"
+      ],
       "last_seen": "2026-11-11",
-      "booking_open": false,
-      "notified_cinemas": []
+      "booking_open": true,
+      "notified_cinemas": [
+        "City Centre Almaza"
+      ]
     },
     "ciff-2026-khan-el-khalili-arabic": {
       "title": "CIFF 2026: Khan el khalili",
