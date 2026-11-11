@@ -234,11 +234,15 @@
     },
     "the-dino-family": {
       "title": "The Dino Family",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "Mall of Egypt"
+      ],
       "last_seen": "2026-11-11",
-      "notified_cinemas": [],
-      "booking_open": false
+      "notified_cinemas": [
+        "Mall of Egypt"
+      ],
+      "booking_open": true
     },
     "enhypen-world-tour-blood-saga": {
       "title": "ENHYPEN WORLD TOUR 'BLOOD SAGA'",
