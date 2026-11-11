@@ -68,15 +68,11 @@
     },
     "heart-of-the-beast": {
       "title": "Heart of the Beast",
-      "alerted": true,
-      "cinemas": [
-        "Mall of Egypt"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-11",
-      "notified_cinemas": [
-        "Mall of Egypt"
-      ],
-      "booking_open": true
+      "notified_cinemas": [],
+      "booking_open": false
     },
     "street-fighter": {
       "title": "Street Fighter",
