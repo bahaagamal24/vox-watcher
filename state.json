@@ -604,13 +604,11 @@
       "title": "Ramayana",
       "alerted": true,
       "cinemas": [
-        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-11",
       "booking_open": true,
       "notified_cinemas": [
-        "City Centre Almaza",
         "Mall of Egypt"
       ]
     },
@@ -632,15 +630,11 @@
     },
     "uc-harfliler-muhur-turkish": {
       "title": "Uc Harfliler Muhur",
-      "alerted": true,
-      "cinemas": [
-        "Mall of Egypt"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-11",
-      "notified_cinemas": [
-        "Mall of Egypt"
-      ],
-      "booking_open": true
+      "notified_cinemas": [],
+      "booking_open": false
     },
     "the-cat-in-the-hat-arabic": {
       "title": "The Cat In The Hat",
