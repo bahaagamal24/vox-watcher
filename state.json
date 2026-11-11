@@ -590,11 +590,15 @@
     },
     "the-cycle": {
       "title": "The Cycle",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "Mall of Egypt"
+      ],
       "last_seen": "2026-11-11",
-      "booking_open": false,
-      "notified_cinemas": []
+      "booking_open": true,
+      "notified_cinemas": [
+        "Mall of Egypt"
+      ]
     },
     "ramayana-hindi": {
       "title": "Ramayana",
