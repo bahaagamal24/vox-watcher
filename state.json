@@ -588,15 +588,11 @@
     },
     "the-cat-in-the-hat-arabic": {
       "title": "The Cat In The Hat",
-      "alerted": true,
-      "cinemas": [
-        "Mall of Egypt"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-12",
-      "notified_cinemas": [
-        "Mall of Egypt"
-      ],
-      "booking_open": true
+      "notified_cinemas": [],
+      "booking_open": false
     },
     "how-to-rob-a-bank": {
       "title": "How to Rob a Bank",
@@ -614,19 +610,27 @@
     },
     "ciff-2026-a-crime-in-a-quiet-neighborhood-arabic": {
       "title": "CIFF 2026:A Crime in a Quiet Neighborhood",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "Mall of Egypt"
+      ],
       "last_seen": "2026-11-12",
-      "booking_open": false,
-      "notified_cinemas": []
+      "booking_open": true,
+      "notified_cinemas": [
+        "Mall of Egypt"
+      ]
     },
     "ciff-2026-cairo-30-arabic": {
       "title": "CIFF 2026: Cairo 30",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "Mall of Egypt"
+      ],
       "last_seen": "2026-11-12",
-      "booking_open": false,
-      "notified_cinemas": []
+      "booking_open": true,
+      "notified_cinemas": [
+        "Mall of Egypt"
+      ]
     },
     "ciff-2026-a-woman-on-the-road-arabic": {
       "title": "CIFF 2026: A Woman on the Road",
@@ -650,11 +654,15 @@
     },
     "ciff-2026-khan-el-khalili-arabic": {
       "title": "CIFF 2026: Khan el khalili",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "Mall of Egypt"
+      ],
       "last_seen": "2026-11-12",
-      "booking_open": false,
-      "notified_cinemas": []
+      "booking_open": true,
+      "notified_cinemas": [
+        "Mall of Egypt"
+      ]
     },
     "ciff-2026-dead-dogs-dont-bite-turkish": {
       "title": "CIFF 2026: Dead Dogs Don't Bite",
@@ -690,11 +698,15 @@
     },
     "ciff-2026-night-and-jail-bars-arabic": {
       "title": "CIFF 2026: Night and Jail Bars",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "Mall of Egypt"
+      ],
       "last_seen": "2026-11-12",
-      "booking_open": false,
-      "notified_cinemas": []
+      "booking_open": true,
+      "notified_cinemas": [
+        "Mall of Egypt"
+      ]
     },
     "ciff-2026-palace-of-desire-arabic": {
       "title": "CIFF 2026: Palace of Desire",
@@ -706,11 +718,15 @@
     },
     "ciff-2026-the-sin-arabic": {
       "title": "CIFF 2026: The Sin",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "Mall of Egypt"
+      ],
       "last_seen": "2026-11-12",
-      "booking_open": false,
-      "notified_cinemas": []
+      "booking_open": true,
+      "notified_cinemas": [
+        "Mall of Egypt"
+      ]
     },
     "ciff-2026-inherited-persian": {
       "title": "CIFF 2026: Inherited",
