@@ -909,6 +909,14 @@
       "last_seen": "2026-11-12",
       "booking_open": false,
       "notified_cinemas": []
+    },
+    "the-angry-birds-movie-3": {
+      "title": "The Angry Birds Movie 3",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-11-12",
+      "booking_open": false,
+      "notified_cinemas": []
     }
   },
   "initialized": true
