@@ -340,14 +340,12 @@
       "title": "The Cat In The Hat",
       "alerted": true,
       "cinemas": [
-        "City Centre Almaza",
-        "Mall of Egypt"
+        "City Centre Almaza"
       ],
       "last_seen": "2026-11-12",
       "booking_open": true,
       "notified_cinemas": [
-        "City Centre Almaza",
-        "Mall of Egypt"
+        "City Centre Almaza"
       ]
     },
     "godzilla-minus-zero-japanese": {
