@@ -774,11 +774,15 @@
     },
     "ciff-2026-home-bitter-home-arabic": {
       "title": "CIFF 2026: Home Bitter Home",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "Mall of Egypt"
+      ],
       "last_seen": "2026-11-13",
-      "booking_open": false,
-      "notified_cinemas": []
+      "booking_open": true,
+      "notified_cinemas": [
+        "Mall of Egypt"
+      ]
     },
     "ciff-2026-the-mirage-finnish": {
       "title": "CIFF 2026: The Mirage",
