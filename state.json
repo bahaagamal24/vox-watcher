@@ -377,14 +377,12 @@
       "alerted": true,
       "cinemas": [
         "City Centre Alexandria",
-        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-13",
       "booking_open": true,
       "notified_cinemas": [
         "City Centre Alexandria",
-        "City Centre Almaza",
         "Mall of Egypt"
       ]
     },
@@ -464,12 +462,10 @@
       "title": "Matloub 3a2eleyain",
       "alerted": true,
       "cinemas": [
-        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-13",
       "notified_cinemas": [
-        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "booking_open": true
@@ -502,11 +498,15 @@
       "title": "Ebenezer",
       "alerted": true,
       "cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-13",
       "booking_open": true,
       "notified_cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
         "Mall of Egypt"
       ]
     },
@@ -598,12 +598,16 @@
       "title": "How to Rob a Bank",
       "alerted": true,
       "cinemas": [
-        "City Centre Alexandria"
+        "City Centre Alexandria",
+        "City Centre Almaza",
+        "Mall of Egypt"
       ],
       "last_seen": "2026-11-13",
       "booking_open": true,
       "notified_cinemas": [
-        "City Centre Alexandria"
+        "City Centre Alexandria",
+        "City Centre Almaza",
+        "Mall of Egypt"
       ]
     },
     "ciff-2026-a-crime-in-a-quiet-neighborhood-arabic": {
