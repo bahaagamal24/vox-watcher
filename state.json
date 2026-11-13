@@ -5,11 +5,13 @@
       "alerted": true,
       "cinemas": [
         "City Centre Alexandria",
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-13",
       "notified_cinemas": [
         "City Centre Alexandria",
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "booking_open": true
@@ -374,14 +376,12 @@
       "title": "Hadoota",
       "alerted": true,
       "cinemas": [
-        "City Centre Alexandria",
-        "Mall of Egypt"
+        "City Centre Alexandria"
       ],
       "last_seen": "2026-11-13",
       "booking_open": true,
       "notified_cinemas": [
-        "City Centre Alexandria",
-        "Mall of Egypt"
+        "City Centre Alexandria"
       ]
     },
     "the-hunger-games-sunrise-on-the-reaping": {
@@ -460,10 +460,14 @@
       "title": "Matloub 3a2eleyain",
       "alerted": true,
       "cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-13",
       "notified_cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "booking_open": true
