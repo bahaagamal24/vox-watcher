@@ -356,14 +356,12 @@
       "title": "Godzilla Minus Zero",
       "alerted": true,
       "cinemas": [
-        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-13",
       "booking_open": true,
       "notified_cinemas": [
-        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ]
@@ -586,11 +584,15 @@
     },
     "the-cat-in-the-hat-arabic": {
       "title": "The Cat In The Hat",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "Mall of Egypt"
+      ],
       "last_seen": "2026-11-13",
-      "notified_cinemas": [],
-      "booking_open": false
+      "notified_cinemas": [
+        "Mall of Egypt"
+      ],
+      "booking_open": true
     },
     "how-to-rob-a-bank": {
       "title": "How to Rob a Bank",
