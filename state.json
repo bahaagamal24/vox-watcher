@@ -494,14 +494,12 @@
       "title": "Ebenezer",
       "alerted": true,
       "cinemas": [
-        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-13",
       "booking_open": true,
       "notified_cinemas": [
-        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ]
@@ -931,5 +929,6 @@
       "notified_cinemas": []
     }
   },
-  "initialized": true
+  "initialized": true,
+  "fail_count": 1
 }
