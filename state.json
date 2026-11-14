@@ -678,11 +678,15 @@
     },
     "ciff-2026-night-and-jail-bars-arabic": {
       "title": "CIFF 2026: Night and Jail Bars",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "Mall of Egypt"
+      ],
       "last_seen": "2026-11-14",
-      "booking_open": false,
-      "notified_cinemas": []
+      "booking_open": true,
+      "notified_cinemas": [
+        "Mall of Egypt"
+      ]
     },
     "ciff-2026-palace-of-desire-arabic": {
       "title": "CIFF 2026: Palace of Desire",
