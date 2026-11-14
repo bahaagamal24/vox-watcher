@@ -652,51 +652,35 @@
     },
     "ciff-2026-khan-el-khalili-arabic": {
       "title": "CIFF 2026: Khan el khalili",
-      "alerted": true,
-      "cinemas": [
-        "Mall of Egypt"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-14",
-      "booking_open": true,
-      "notified_cinemas": [
-        "Mall of Egypt"
-      ]
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "ciff-2026-dead-dogs-dont-bite-turkish": {
       "title": "CIFF 2026: Dead Dogs Don't Bite",
-      "alerted": true,
-      "cinemas": [
-        "Mall of Egypt"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-14",
-      "booking_open": true,
-      "notified_cinemas": [
-        "Mall of Egypt"
-      ]
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "ciff-2026-my-wife-and-the-dog-arabic": {
       "title": "CIFF 2026: My Wife and the Dog",
-      "alerted": true,
-      "cinemas": [
-        "City Centre Almaza"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-14",
-      "booking_open": true,
-      "notified_cinemas": [
-        "City Centre Almaza"
-      ]
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "ciff-2026-fatma-and-the-abdelwahab-plan-arabic": {
       "title": "CIFF 2026: Fatma and the Abdelwahab Plan",
-      "alerted": true,
-      "cinemas": [
-        "City Centre Almaza"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-14",
-      "booking_open": true,
-      "notified_cinemas": [
-        "City Centre Almaza"
-      ]
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "ciff-2026-night-and-jail-bars-arabic": {
       "title": "CIFF 2026: Night and Jail Bars",
