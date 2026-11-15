@@ -352,13 +352,11 @@
       "title": "Godzilla Minus Zero",
       "alerted": true,
       "cinemas": [
-        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-15",
       "booking_open": true,
       "notified_cinemas": [
-        "City Centre Almaza",
         "Mall of Egypt"
       ]
     },
@@ -592,14 +590,12 @@
       "title": "How to Rob a Bank",
       "alerted": true,
       "cinemas": [
-        "City Centre Almaza",
-        "Mall of Egypt"
+        "City Centre Almaza"
       ],
       "last_seen": "2026-11-15",
       "booking_open": true,
       "notified_cinemas": [
-        "City Centre Almaza",
-        "Mall of Egypt"
+        "City Centre Almaza"
       ]
     },
     "ciff-2026-a-crime-in-a-quiet-neighborhood-arabic": {
