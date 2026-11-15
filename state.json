@@ -587,12 +587,10 @@
     "the-cat-in-the-hat-arabic": {
       "title": "The Cat In The Hat",
       "alerted": false,
-      "cinemas": [
-        "Mall of Egypt"
-      ],
+      "cinemas": [],
       "last_seen": "2026-11-15",
       "notified_cinemas": [],
-      "booking_open": true
+      "booking_open": false
     },
     "how-to-rob-a-bank": {
       "title": "How to Rob a Bank",
