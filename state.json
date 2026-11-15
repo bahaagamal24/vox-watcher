@@ -19,12 +19,14 @@
       "alerted": true,
       "cinemas": [
         "City Centre Alexandria",
-        "City Centre Almaza"
+        "City Centre Almaza",
+        "Mall of Egypt"
       ],
       "last_seen": "2026-11-15",
       "notified_cinemas": [
         "City Centre Alexandria",
-        "City Centre Almaza"
+        "City Centre Almaza",
+        "Mall of Egypt"
       ],
       "booking_open": true
     },
@@ -352,11 +354,15 @@
       "title": "Godzilla Minus Zero",
       "alerted": true,
       "cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-15",
       "booking_open": true,
       "notified_cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
         "Mall of Egypt"
       ]
     },
@@ -364,13 +370,11 @@
       "title": "Hadoota",
       "alerted": true,
       "cinemas": [
-        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-15",
       "booking_open": true,
       "notified_cinemas": [
-        "City Centre Almaza",
         "Mall of Egypt"
       ]
     },
