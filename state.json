@@ -700,39 +700,27 @@
     },
     "ciff-2026-the-sin-arabic": {
       "title": "CIFF 2026: The Sin",
-      "alerted": true,
-      "cinemas": [
-        "Mall of Egypt"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-15",
-      "booking_open": true,
-      "notified_cinemas": [
-        "Mall of Egypt"
-      ]
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "ciff-2026-inherited-persian": {
       "title": "CIFF 2026: Inherited",
-      "alerted": true,
-      "cinemas": [
-        "Mall of Egypt"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-15",
-      "booking_open": true,
-      "notified_cinemas": [
-        "Mall of Egypt"
-      ]
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "ciff-2026-my-wife-general-manager-arabic": {
       "title": "CIFF 2026: My Wife, General Manager",
-      "alerted": true,
-      "cinemas": [
-        "City Centre Almaza"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-15",
-      "booking_open": true,
-      "notified_cinemas": [
-        "City Centre Almaza"
-      ]
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "ciff-2026-the-violinist-arabic-japanese": {
       "title": "CIFF 2026: The Violinist",
@@ -915,6 +903,5 @@
       "notified_cinemas": []
     }
   },
-  "initialized": true,
-  "fail_count": 1
+  "initialized": true
 }
