@@ -740,39 +740,27 @@
     },
     "ciff-2026-something-of-fear-arabic": {
       "title": "CIFF 2026: Something of Fear",
-      "alerted": true,
-      "cinemas": [
-        "Mall of Egypt"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-16",
-      "booking_open": true,
-      "notified_cinemas": [
-        "Mall of Egypt"
-      ]
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "ciff-2026-for-life-arabic": {
       "title": "CIFF 2026: For Life",
-      "alerted": true,
-      "cinemas": [
-        "Mall of Egypt"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-16",
-      "booking_open": true,
-      "notified_cinemas": [
-        "Mall of Egypt"
-      ]
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "ciff-2026-the-lamp-of-umm-hashim-arabic": {
       "title": "CIFF 2026: The Lamp of Umm Hashim",
-      "alerted": true,
-      "cinemas": [
-        "City Centre Almaza"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-16",
-      "booking_open": true,
-      "notified_cinemas": [
-        "City Centre Almaza"
-      ]
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "ciff-2026-home-bitter-home-arabic": {
       "title": "CIFF 2026: Home Bitter Home",
