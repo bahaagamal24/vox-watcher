@@ -4,12 +4,10 @@
       "title": "Wala Kan Ala El-Bal",
       "alerted": true,
       "cinemas": [
-        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-16",
       "notified_cinemas": [
-        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "booking_open": true
@@ -18,10 +16,14 @@
       "title": "Clayface",
       "alerted": true,
       "cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-16",
       "notified_cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "booking_open": true
@@ -104,10 +106,12 @@
       "title": "Naseeb",
       "alerted": true,
       "cinemas": [
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-16",
       "notified_cinemas": [
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "booking_open": true
@@ -368,11 +372,15 @@
       "title": "Hadoota",
       "alerted": true,
       "cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-16",
       "booking_open": true,
       "notified_cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
         "Mall of Egypt"
       ]
     },
@@ -492,11 +500,15 @@
       "title": "Ebenezer",
       "alerted": true,
       "cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-16",
       "booking_open": true,
       "notified_cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
         "Mall of Egypt"
       ]
     },
