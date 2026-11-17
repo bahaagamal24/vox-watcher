@@ -939,6 +939,30 @@
       "notified_cinemas": [
         "Mall of Egypt"
       ]
+    },
+    "belkis-turkish": {
+      "title": "Belkis",
+      "alerted": true,
+      "cinemas": [
+        "Mall of Egypt"
+      ],
+      "last_seen": "2026-11-17",
+      "notified_cinemas": [
+        "Mall of Egypt"
+      ],
+      "booking_open": true
+    },
+    "les-mis-rables": {
+      "title": "Les Misérables",
+      "alerted": true,
+      "cinemas": [
+        "Mall of Egypt"
+      ],
+      "last_seen": "2026-11-17",
+      "notified_cinemas": [
+        "Mall of Egypt"
+      ],
+      "booking_open": true
     }
   },
   "initialized": true
