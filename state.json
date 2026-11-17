@@ -911,6 +911,22 @@
       "last_seen": "2026-11-17",
       "booking_open": false,
       "notified_cinemas": []
+    },
+    "crypto-arabic": {
+      "title": "Crypto",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-11-17",
+      "booking_open": false,
+      "notified_cinemas": []
+    },
+    "i-play-rocky": {
+      "title": "I Play Rocky",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-11-17",
+      "booking_open": false,
+      "notified_cinemas": []
     }
   },
   "initialized": true
