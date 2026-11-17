@@ -961,6 +961,22 @@
         "Mall of Egypt"
       ],
       "booking_open": true
+    },
+    "dune-part-one-re-release": {
+      "title": "Dune: Part One",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-11-17",
+      "booking_open": false,
+      "notified_cinemas": []
+    },
+    "dune-part-two-re-release": {
+      "title": "Dune: Part Two",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-11-17",
+      "booking_open": false,
+      "notified_cinemas": []
     }
   },
   "initialized": true
