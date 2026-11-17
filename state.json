@@ -4,13 +4,11 @@
       "title": "Wala Kan Ala El-Bal",
       "alerted": true,
       "cinemas": [
-        "City Centre Almaza",
-        "Mall of Egypt"
+        "City Centre Almaza"
       ],
       "last_seen": "2026-11-17",
       "notified_cinemas": [
-        "City Centre Almaza",
-        "Mall of Egypt"
+        "City Centre Almaza"
       ],
       "booking_open": true
     },
@@ -32,10 +30,12 @@
       "title": "Whalefall",
       "alerted": true,
       "cinemas": [
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-17",
       "notified_cinemas": [
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "booking_open": true
