@@ -390,11 +390,15 @@
     },
     "the-hunger-games-sunrise-on-the-reaping": {
       "title": "The Hunger Games: Sunrise on the Reaping",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "Mall of Egypt"
+      ],
       "last_seen": "2026-11-17",
-      "booking_open": false,
-      "notified_cinemas": []
+      "booking_open": true,
+      "notified_cinemas": [
+        "Mall of Egypt"
+      ]
     },
     "hexed": {
       "title": "Hexed",
@@ -914,19 +918,27 @@
     },
     "crypto-arabic": {
       "title": "Crypto",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "Mall of Egypt"
+      ],
       "last_seen": "2026-11-17",
-      "booking_open": false,
-      "notified_cinemas": []
+      "booking_open": true,
+      "notified_cinemas": [
+        "Mall of Egypt"
+      ]
     },
     "i-play-rocky": {
       "title": "I Play Rocky",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "Mall of Egypt"
+      ],
       "last_seen": "2026-11-17",
-      "booking_open": false,
-      "notified_cinemas": []
+      "booking_open": true,
+      "notified_cinemas": [
+        "Mall of Egypt"
+      ]
     }
   },
   "initialized": true
