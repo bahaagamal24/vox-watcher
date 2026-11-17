@@ -766,15 +766,11 @@
     },
     "ciff-2026-home-bitter-home-arabic": {
       "title": "CIFF 2026: Home Bitter Home",
-      "alerted": true,
-      "cinemas": [
-        "Mall of Egypt"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-17",
-      "booking_open": true,
-      "notified_cinemas": [
-        "Mall of Egypt"
-      ]
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "ciff-2026-the-mirage-finnish": {
       "title": "CIFF 2026: The Mirage",
@@ -822,15 +818,11 @@
     },
     "ciff-2026-fleak-finnish": {
       "title": "CIFF 2026: Fleak",
-      "alerted": true,
-      "cinemas": [
-        "Mall of Egypt"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-17",
-      "booking_open": true,
-      "notified_cinemas": [
-        "Mall of Egypt"
-      ]
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "ciff-2026-the-female-idol-arabic": {
       "title": "CIFF 2026: The Female Idol",
