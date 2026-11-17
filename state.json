@@ -985,5 +985,6 @@
       "booking_open": true
     }
   },
-  "initialized": true
+  "initialized": true,
+  "fail_count": 1
 }
