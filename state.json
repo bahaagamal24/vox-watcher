@@ -784,15 +784,11 @@
     },
     "ciff-2026-to-the-sun-and-beyond-tunisian-arabic": {
       "title": "CIFF 2026: To the Sun and Beyond",
-      "alerted": true,
-      "cinemas": [
-        "City Centre Almaza"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-17",
-      "booking_open": true,
-      "notified_cinemas": [
-        "City Centre Almaza"
-      ]
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "ciff-2026-the-people-and-the-nile-arabic": {
       "title": "CIFF 2026: The People and The Nile",
@@ -808,15 +804,11 @@
     },
     "ciff-2026-the-mirage-arabic": {
       "title": "CIFF 2026: The Mirage",
-      "alerted": true,
-      "cinemas": [
-        "City Centre Almaza"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-17",
-      "booking_open": true,
-      "notified_cinemas": [
-        "City Centre Almaza"
-      ]
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "ciff-2026-fleak-finnish": {
       "title": "CIFF 2026: Fleak",
