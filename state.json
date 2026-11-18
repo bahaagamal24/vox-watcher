@@ -824,15 +824,11 @@
     },
     "best-pancakes-in-the-county": {
       "title": "Best Pancakes in the County",
-      "alerted": true,
-      "cinemas": [
-        "Mall of Egypt"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-18",
-      "booking_open": true,
-      "notified_cinemas": [
-        "Mall of Egypt"
-      ]
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "ciff-2026-the-soft-hands-arabic": {
       "title": "CIFF 2026: The Soft Hands",
