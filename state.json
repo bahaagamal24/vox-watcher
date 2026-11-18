@@ -84,15 +84,11 @@
     },
     "resident-evil": {
       "title": "Resident Evil",
-      "alerted": true,
-      "cinemas": [
-        "Mall of Egypt"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-18",
-      "notified_cinemas": [
-        "Mall of Egypt"
-      ],
-      "booking_open": true
+      "notified_cinemas": [],
+      "booking_open": false
     },
     "the-odyssey": {
       "title": "The Odyssey",
