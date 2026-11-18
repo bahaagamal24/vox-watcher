@@ -96,11 +96,15 @@
     },
     "the-odyssey": {
       "title": "The Odyssey",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "City Centre Almaza"
+      ],
       "last_seen": "2026-11-18",
-      "booking_open": false,
-      "notified_cinemas": []
+      "booking_open": true,
+      "notified_cinemas": [
+        "City Centre Almaza"
+      ]
     },
     "naseeb-arabic": {
       "title": "Naseeb",
@@ -788,15 +792,11 @@
     },
     "ciff-2026-the-people-and-the-nile-arabic": {
       "title": "CIFF 2026: The People and The Nile",
-      "alerted": true,
-      "cinemas": [
-        "Mall of Egypt"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-18",
-      "booking_open": true,
-      "notified_cinemas": [
-        "Mall of Egypt"
-      ]
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "ciff-2026-the-mirage-arabic": {
       "title": "CIFF 2026: The Mirage",
@@ -816,27 +816,19 @@
     },
     "ciff-2026-the-female-idol-arabic": {
       "title": "CIFF 2026: The Female Idol",
-      "alerted": true,
-      "cinemas": [
-        "City Centre Almaza"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-18",
-      "booking_open": true,
-      "notified_cinemas": [
-        "City Centre Almaza"
-      ]
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "ciff-2026-summer-meadow-french-arabic": {
       "title": "CIFF 2026: Summer Meadow",
-      "alerted": true,
-      "cinemas": [
-        "City Centre Almaza"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-18",
-      "booking_open": true,
-      "notified_cinemas": [
-        "City Centre Almaza"
-      ]
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "ciff-2026-shafika-the-copt-arabic": {
       "title": "CIFF 2026: Shafika the Copt",
@@ -860,15 +852,11 @@
     },
     "ciff-2026-the-violinist-english-japanese": {
       "title": "CIFF 2026: The Violinist",
-      "alerted": true,
-      "cinemas": [
-        "Mall of Egypt"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-18",
-      "booking_open": true,
-      "notified_cinemas": [
-        "Mall of Egypt"
-      ]
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "best-pancakes-in-the-county": {
       "title": "Best Pancakes in the County",
