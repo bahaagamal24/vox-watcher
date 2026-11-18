@@ -276,11 +276,15 @@
     },
     "sense-and-sensibility": {
       "title": "Sense and Sensibility",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "City Centre Almaza"
+      ],
       "last_seen": "2026-11-18",
-      "notified_cinemas": [],
-      "booking_open": false
+      "notified_cinemas": [
+        "City Centre Almaza"
+      ],
+      "booking_open": true
     },
     "the-influencer-project": {
       "title": "The Influencer Project",
