@@ -436,11 +436,15 @@
       "title": "Matloub 3a2eleyain",
       "alerted": true,
       "cinemas": [
-        "City Centre Almaza"
+        "City Centre Alexandria",
+        "City Centre Almaza",
+        "Mall of Egypt"
       ],
       "last_seen": "2026-11-18",
       "notified_cinemas": [
-        "City Centre Almaza"
+        "City Centre Alexandria",
+        "City Centre Almaza",
+        "Mall of Egypt"
       ],
       "booking_open": true
     },
@@ -472,11 +476,15 @@
       "title": "Ebenezer",
       "alerted": true,
       "cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-18",
       "booking_open": true,
       "notified_cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
         "Mall of Egypt"
       ]
     },
