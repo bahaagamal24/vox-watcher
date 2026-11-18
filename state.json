@@ -20,12 +20,10 @@
       "title": "Clayface",
       "alerted": true,
       "cinemas": [
-        "City Centre Alexandria",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-18",
       "notified_cinemas": [
-        "City Centre Alexandria",
         "Mall of Egypt"
       ],
       "booking_open": true
@@ -322,14 +320,12 @@
       "title": "The Cat In The Hat",
       "alerted": true,
       "cinemas": [
-        "City Centre Almaza",
-        "Mall of Egypt"
+        "City Centre Almaza"
       ],
       "last_seen": "2026-11-18",
       "booking_open": true,
       "notified_cinemas": [
-        "City Centre Almaza",
-        "Mall of Egypt"
+        "City Centre Almaza"
       ]
     },
     "godzilla-minus-zero-japanese": {
@@ -348,14 +344,12 @@
       "title": "Hadoota",
       "alerted": true,
       "cinemas": [
-        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-18",
       "booking_open": true,
       "notified_cinemas": [
-        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ]
