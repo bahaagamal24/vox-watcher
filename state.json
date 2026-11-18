@@ -918,11 +918,13 @@
       "title": "I Play Rocky",
       "alerted": true,
       "cinemas": [
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-18",
       "booking_open": true,
       "notified_cinemas": [
+        "City Centre Almaza",
         "Mall of Egypt"
       ]
     },
