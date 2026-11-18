@@ -972,10 +972,12 @@
       "title": "Forgotten Island",
       "alerted": true,
       "cinemas": [
+        "City Centre Alexandria",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-18",
       "notified_cinemas": [
+        "City Centre Alexandria",
         "Mall of Egypt"
       ],
       "booking_open": true
