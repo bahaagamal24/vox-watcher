@@ -945,6 +945,30 @@
         "Mall of Egypt"
       ],
       "booking_open": true
+    },
+    "sophia-arabic": {
+      "title": "Sophia",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-11-19",
+      "booking_open": false,
+      "notified_cinemas": []
+    },
+    "leila-bazet-khales-arabic": {
+      "title": "Leila Bazet Khales",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-11-19",
+      "booking_open": false,
+      "notified_cinemas": []
+    },
+    "lela-bazit-khalis-arabic": {
+      "title": "Lela Bazit Khalis",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-11-19",
+      "booking_open": false,
+      "notified_cinemas": []
     }
   },
   "initialized": true
