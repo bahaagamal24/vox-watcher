@@ -248,19 +248,11 @@
     },
     "dune-part-three": {
       "title": "Dune: Part Three",
-      "alerted": true,
-      "cinemas": [
-        "City Centre Alexandria",
-        "City Centre Almaza",
-        "Mall of Egypt"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-19",
-      "notified_cinemas": [
-        "City Centre Alexandria",
-        "City Centre Almaza",
-        "Mall of Egypt"
-      ],
-      "booking_open": true
+      "notified_cinemas": [],
+      "booking_open": false
     },
     "the-mongoose": {
       "title": "18TC The Mongoose",
@@ -978,21 +970,34 @@
       "title": "Dune: Part Thre-Preview Screening",
       "alerted": false,
       "cinemas": [],
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-19",
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "dune-part-thre": {
       "title": "Dune: Part Thre",
-      "alerted": false,
-      "cinemas": [],
-      "last_seen": "2026-11-19"
+      "alerted": true,
+      "cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
+        "Mall of Egypt"
+      ],
+      "last_seen": "2026-11-19",
+      "notified_cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
+        "Mall of Egypt"
+      ],
+      "booking_open": true
     },
     "sales-booking-ashar": {
       "title": "Sales Booking - Ashar",
       "alerted": false,
       "cinemas": [],
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-19",
+      "booking_open": false,
+      "notified_cinemas": []
     }
   },
-  "initialized": true,
-  "fail_count": 3
+  "initialized": true
 }
