@@ -248,11 +248,19 @@
     },
     "dune-part-three": {
       "title": "Dune: Part Three",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
+        "Mall of Egypt"
+      ],
       "last_seen": "2026-11-19",
-      "notified_cinemas": [],
-      "booking_open": false
+      "notified_cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
+        "Mall of Egypt"
+      ],
+      "booking_open": true
     },
     "the-mongoose": {
       "title": "18TC The Mongoose",
@@ -997,7 +1005,14 @@
       "last_seen": "2026-11-19",
       "booking_open": false,
       "notified_cinemas": []
+    },
+    "dune-part-three-preview-screening": {
+      "title": "Dune: Part Three -Preview Screening",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-11-19"
     }
   },
-  "initialized": true
+  "initialized": true,
+  "fail_count": 1
 }
