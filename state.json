@@ -818,15 +818,11 @@
     },
     "ciff-2026-the-second-wife-arabic": {
       "title": "CIFF 2026: The Second Wife",
-      "alerted": true,
-      "cinemas": [
-        "City Centre Almaza"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-19",
-      "booking_open": true,
-      "notified_cinemas": [
-        "City Centre Almaza"
-      ]
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "ciff-2026-the-violinist-english-japanese": {
       "title": "CIFF 2026: The Violinist",
@@ -846,15 +842,11 @@
     },
     "ciff-2026-the-soft-hands-arabic": {
       "title": "CIFF 2026: The Soft Hands",
-      "alerted": true,
-      "cinemas": [
-        "City Centre Almaza"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-19",
-      "booking_open": true,
-      "notified_cinemas": [
-        "City Centre Almaza"
-      ]
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "the-angry-birds-movie-3": {
       "title": "The Angry Birds Movie 3",
