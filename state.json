@@ -973,7 +973,26 @@
       "last_seen": "2026-11-19",
       "booking_open": false,
       "notified_cinemas": []
+    },
+    "dune-part-thre-preview-screening": {
+      "title": "Dune: Part Thre-Preview Screening",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-11-19"
+    },
+    "dune-part-thre": {
+      "title": "Dune: Part Thre",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-11-19"
+    },
+    "sales-booking-ashar": {
+      "title": "Sales Booking - Ashar",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-11-19"
     }
   },
-  "initialized": true
+  "initialized": true,
+  "fail_count": 1
 }
