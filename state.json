@@ -318,11 +318,13 @@
       "title": "The Cat In The Hat",
       "alerted": true,
       "cinemas": [
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-19",
       "booking_open": true,
       "notified_cinemas": [
+        "City Centre Almaza",
         "Mall of Egypt"
       ]
     },
@@ -861,13 +863,15 @@
       "alerted": true,
       "cinemas": [
         "City Centre Alexandria",
-        "City Centre Almaza"
+        "City Centre Almaza",
+        "Mall of Egypt"
       ],
       "last_seen": "2026-11-19",
       "booking_open": true,
       "notified_cinemas": [
         "City Centre Alexandria",
-        "City Centre Almaza"
+        "City Centre Almaza",
+        "Mall of Egypt"
       ]
     },
     "belkis-turkish": {
