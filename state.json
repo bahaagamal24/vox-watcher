@@ -999,6 +999,14 @@
       "last_seen": "2026-11-20",
       "booking_open": false,
       "notified_cinemas": []
+    },
+    "the-beekeeper-2": {
+      "title": "The Beekeeper 2",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-11-20",
+      "booking_open": false,
+      "notified_cinemas": []
     }
   },
   "initialized": true
