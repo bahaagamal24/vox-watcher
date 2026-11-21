@@ -588,11 +588,13 @@
       "title": "How to Rob a Bank",
       "alerted": true,
       "cinemas": [
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-21",
       "booking_open": true,
       "notified_cinemas": [
+        "City Centre Almaza",
         "Mall of Egypt"
       ]
     },
