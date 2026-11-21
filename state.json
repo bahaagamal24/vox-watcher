@@ -498,19 +498,11 @@
     },
     "bts-world-tour-arirang-in-kaohsiung-live-viewin": {
       "title": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG: LIVE VIEWIN",
-      "alerted": true,
-      "cinemas": [
-        "City Centre Alexandria",
-        "City Centre Almaza",
-        "Mall of Egypt"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-21",
-      "booking_open": true,
-      "notified_cinemas": [
-        "City Centre Alexandria",
-        "City Centre Almaza",
-        "Mall of Egypt"
-      ]
+      "booking_open": false,
+      "notified_cinemas": []
     },
     "bts-world-tour-arirang-in-jakarta-live-viewing": {
       "title": "BTS WORLD TOUR 'ARIRANG' IN JAKARTA: LIVE VIEWING",
