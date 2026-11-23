@@ -932,11 +932,15 @@
     },
     "sophia-arabic": {
       "title": "Sophia",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "Mall of Egypt"
+      ],
       "last_seen": "2026-11-23",
-      "booking_open": false,
-      "notified_cinemas": []
+      "booking_open": true,
+      "notified_cinemas": [
+        "Mall of Egypt"
+      ]
     },
     "leila-bazet-khales-arabic": {
       "title": "Leila Bazet Khales",
@@ -948,11 +952,15 @@
     },
     "lela-bazit-khalis-arabic": {
       "title": "Lela Bazit Khalis",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "Mall of Egypt"
+      ],
       "last_seen": "2026-11-23",
-      "booking_open": false,
-      "notified_cinemas": []
+      "booking_open": true,
+      "notified_cinemas": [
+        "Mall of Egypt"
+      ]
     },
     "dune-part-thre-preview-screening": {
       "title": "Dune: Part Thre-Preview Screening",
