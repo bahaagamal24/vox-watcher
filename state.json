@@ -1015,6 +1015,22 @@
       "last_seen": "2026-11-24",
       "booking_open": false,
       "notified_cinemas": []
+    },
+    "focker-in-law": {
+      "title": "Focker In-Law",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-11-24",
+      "booking_open": false,
+      "notified_cinemas": []
+    },
+    "paper-tiger": {
+      "title": "Paper Tiger",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-11-24",
+      "booking_open": false,
+      "notified_cinemas": []
     }
   },
   "initialized": true
