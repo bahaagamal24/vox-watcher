@@ -360,12 +360,16 @@
       "title": "The Hunger Games: Sunrise on the Reaping",
       "alerted": true,
       "cinemas": [
-        "City Centre Alexandria"
+        "City Centre Alexandria",
+        "City Centre Almaza",
+        "Mall of Egypt"
       ],
       "last_seen": "2026-11-24",
       "booking_open": true,
       "notified_cinemas": [
-        "City Centre Alexandria"
+        "City Centre Alexandria",
+        "City Centre Almaza",
+        "Mall of Egypt"
       ]
     },
     "hexed": {
@@ -576,13 +580,11 @@
       "title": "How to Rob a Bank",
       "alerted": true,
       "cinemas": [
-        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-24",
       "booking_open": true,
       "notified_cinemas": [
-        "City Centre Almaza",
         "Mall of Egypt"
       ]
     },
@@ -906,10 +908,14 @@
       "title": "Forgotten Island",
       "alerted": true,
       "cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-24",
       "notified_cinemas": [
+        "City Centre Alexandria",
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "booking_open": true
