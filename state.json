@@ -4,13 +4,11 @@
       "title": "Wala Kan Ala El-Bal",
       "alerted": true,
       "cinemas": [
-        "City Centre Almaza",
-        "Mall of Egypt"
+        "City Centre Almaza"
       ],
       "last_seen": "2026-11-25",
       "notified_cinemas": [
-        "City Centre Almaza",
-        "Mall of Egypt"
+        "City Centre Almaza"
       ],
       "booking_open": true
     },
@@ -350,12 +348,14 @@
       "title": "The Hunger Games: Sunrise on the Reaping",
       "alerted": true,
       "cinemas": [
-        "City Centre Alexandria"
+        "City Centre Almaza",
+        "Mall of Egypt"
       ],
       "last_seen": "2026-11-25",
       "booking_open": true,
       "notified_cinemas": [
-        "City Centre Alexandria"
+        "City Centre Almaza",
+        "Mall of Egypt"
       ]
     },
     "hexed": {
