@@ -906,15 +906,11 @@
     },
     "forgotten-island": {
       "title": "Forgotten Island",
-      "alerted": true,
-      "cinemas": [
-        "Mall of Egypt"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-25",
-      "notified_cinemas": [
-        "Mall of Egypt"
-      ],
-      "booking_open": true
+      "notified_cinemas": [],
+      "booking_open": false
     },
     "sophia-arabic": {
       "title": "Sophia",
