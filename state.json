@@ -80,11 +80,15 @@
     },
     "the-odyssey": {
       "title": "The Odyssey",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "City Centre Almaza"
+      ],
       "last_seen": "2026-11-25",
-      "booking_open": false,
-      "notified_cinemas": []
+      "booking_open": true,
+      "notified_cinemas": [
+        "City Centre Almaza"
+      ]
     },
     "naseeb-arabic": {
       "title": "Naseeb",
