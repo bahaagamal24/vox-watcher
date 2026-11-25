@@ -558,11 +558,15 @@
     },
     "the-cat-in-the-hat-arabic": {
       "title": "The Cat In The Hat",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "Mall of Egypt"
+      ],
       "last_seen": "2026-11-25",
-      "notified_cinemas": [],
-      "booking_open": false
+      "notified_cinemas": [
+        "Mall of Egypt"
+      ],
+      "booking_open": true
     },
     "how-to-rob-a-bank": {
       "title": "How to Rob a Bank",
@@ -896,11 +900,13 @@
       "title": "Sophia",
       "alerted": true,
       "cinemas": [
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-25",
       "booking_open": true,
       "notified_cinemas": [
+        "City Centre Almaza",
         "Mall of Egypt"
       ]
     },
@@ -916,14 +922,12 @@
       "title": "Lela Bazit Khalis",
       "alerted": true,
       "cinemas": [
-        "City Centre Alexandria",
-        "Mall of Egypt"
+        "City Centre Alexandria"
       ],
       "last_seen": "2026-11-25",
       "booking_open": true,
       "notified_cinemas": [
-        "City Centre Alexandria",
-        "Mall of Egypt"
+        "City Centre Alexandria"
       ]
     },
     "dune-part-thre-preview-screening": {
