@@ -886,11 +886,15 @@
     },
     "les-mis-rables": {
       "title": "Les Misérables",
-      "alerted": false,
-      "cinemas": [],
+      "alerted": true,
+      "cinemas": [
+        "Mall of Egypt"
+      ],
       "last_seen": "2026-11-25",
-      "notified_cinemas": [],
-      "booking_open": false
+      "notified_cinemas": [
+        "Mall of Egypt"
+      ],
+      "booking_open": true
     },
     "dune-part-one-re-release": {
       "title": "Dune: Part One",
