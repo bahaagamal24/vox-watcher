@@ -938,11 +938,13 @@
       "title": "Sophia",
       "alerted": true,
       "cinemas": [
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-25",
       "booking_open": true,
       "notified_cinemas": [
+        "City Centre Almaza",
         "Mall of Egypt"
       ]
     },
@@ -1053,6 +1055,14 @@
         "Mall of Egypt"
       ],
       "booking_open": true
+    },
+    "gun-maaster-g9-hindi": {
+      "title": "Gun Maaster G9",
+      "alerted": false,
+      "cinemas": [],
+      "last_seen": "2026-11-25",
+      "booking_open": false,
+      "notified_cinemas": []
     }
   },
   "initialized": true
