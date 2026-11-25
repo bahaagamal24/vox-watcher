@@ -4,11 +4,13 @@
       "title": "Wala Kan Ala El-Bal",
       "alerted": true,
       "cinemas": [
+        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-25",
       "notified_cinemas": [
+        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ],
@@ -334,12 +336,14 @@
       "title": "Hadoota",
       "alerted": true,
       "cinemas": [
+        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-25",
       "booking_open": true,
       "notified_cinemas": [
+        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ]
@@ -348,12 +352,14 @@
       "title": "The Hunger Games: Sunrise on the Reaping",
       "alerted": true,
       "cinemas": [
+        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-25",
       "booking_open": true,
       "notified_cinemas": [
+        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ]
@@ -432,11 +438,13 @@
       "title": "Matloub 3a2eleyain",
       "alerted": true,
       "cinemas": [
+        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-25",
       "notified_cinemas": [
+        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ],
@@ -470,12 +478,14 @@
       "title": "Ebenezer",
       "alerted": true,
       "cinemas": [
+        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-25",
       "booking_open": true,
       "notified_cinemas": [
+        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ]
@@ -924,12 +934,14 @@
       "title": "Lela Bazit Khalis",
       "alerted": true,
       "cinemas": [
+        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-25",
       "booking_open": true,
       "notified_cinemas": [
+        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ]
