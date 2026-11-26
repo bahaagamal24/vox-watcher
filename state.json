@@ -478,12 +478,14 @@
       "title": "Ebenezer",
       "alerted": true,
       "cinemas": [
+        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-26",
       "booking_open": true,
       "notified_cinemas": [
+        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ]
@@ -580,11 +582,13 @@
       "title": "How to Rob a Bank",
       "alerted": true,
       "cinemas": [
+        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-26",
       "booking_open": true,
       "notified_cinemas": [
+        "City Centre Almaza",
         "Mall of Egypt"
       ]
     },
@@ -928,14 +932,12 @@
       "title": "Lela Bazit Khalis",
       "alerted": true,
       "cinemas": [
-        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-26",
       "booking_open": true,
       "notified_cinemas": [
-        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ]
