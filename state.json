@@ -8,7 +8,7 @@
         "City Centre Almaza",
         "Mall of Egypt"
       ],
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "notified_cinemas": [
         "City Centre Alexandria",
         "City Centre Almaza",
@@ -78,7 +78,7 @@
       "cinemas": [
         "City Centre Almaza"
       ],
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "booking_open": true,
       "notified_cinemas": [
         "City Centre Almaza"
@@ -100,35 +100,11 @@
       "notified_cinemas": [],
       "booking_open": false
     },
-    "red-flag-arabic": {
-      "title": "Red Flag",
-      "alerted": false,
-      "cinemas": [],
-      "last_seen": "2026-10-28",
-      "notified_cinemas": [],
-      "booking_open": false
-    },
-    "digger": {
-      "title": "Digger",
-      "alerted": false,
-      "cinemas": [],
-      "last_seen": "2026-10-28",
-      "booking_open": false,
-      "notified_cinemas": []
-    },
     "avengers-endgame-encore-infinity-vision": {
       "title": "Avengers Endgame: Encore (Infinity Vision)",
       "alerted": false,
       "cinemas": [],
       "last_seen": "2026-11-04",
-      "booking_open": false,
-      "notified_cinemas": []
-    },
-    "shish-dou-arabic": {
-      "title": "Shish Dou",
-      "alerted": false,
-      "cinemas": [],
-      "last_seen": "2026-10-28",
       "booking_open": false,
       "notified_cinemas": []
     },
@@ -156,38 +132,6 @@
       "notified_cinemas": [],
       "booking_open": false
     },
-    "infiltrate": {
-      "title": "Infiltrate",
-      "alerted": false,
-      "cinemas": [],
-      "last_seen": "2026-10-28",
-      "booking_open": false,
-      "notified_cinemas": []
-    },
-    "no-paradise-if-you-are-killed-by-a-woman": {
-      "title": "No Paradise if You Are Killed by a Woman",
-      "alerted": false,
-      "cinemas": [],
-      "last_seen": "2026-10-28",
-      "booking_open": false,
-      "notified_cinemas": []
-    },
-    "soy-turkish": {
-      "title": "Soy",
-      "alerted": false,
-      "cinemas": [],
-      "last_seen": "2026-10-28",
-      "booking_open": false,
-      "notified_cinemas": []
-    },
-    "soy-arabic": {
-      "title": "Soy",
-      "alerted": false,
-      "cinemas": [],
-      "last_seen": "2026-10-28",
-      "booking_open": false,
-      "notified_cinemas": []
-    },
     "the-dino-family": {
       "title": "The Dino Family",
       "alerted": false,
@@ -195,14 +139,6 @@
       "last_seen": "2026-11-11",
       "notified_cinemas": [],
       "booking_open": false
-    },
-    "enhypen-world-tour-blood-saga": {
-      "title": "ENHYPEN WORLD TOUR 'BLOOD SAGA'",
-      "alerted": false,
-      "cinemas": [],
-      "last_seen": "2026-10-28",
-      "booking_open": false,
-      "notified_cinemas": []
     },
     "hybe-cheering-party-3d": {
       "title": "HYBE CHEERING PARTY 3D",
@@ -228,7 +164,7 @@
         "City Centre Almaza",
         "Mall of Egypt"
       ],
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "notified_cinemas": [
         "City Centre Alexandria",
         "City Centre Almaza",
@@ -244,7 +180,7 @@
         "City Centre Almaza",
         "Mall of Egypt"
       ],
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "notified_cinemas": [
         "City Centre Alexandria",
         "City Centre Almaza",
@@ -315,7 +251,7 @@
         "City Centre Almaza",
         "Mall of Egypt"
       ],
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "booking_open": true,
       "notified_cinemas": [
         "City Centre Almaza",
@@ -328,7 +264,7 @@
       "cinemas": [
         "City Centre Almaza"
       ],
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "booking_open": true,
       "notified_cinemas": [
         "City Centre Almaza"
@@ -342,7 +278,7 @@
         "City Centre Almaza",
         "Mall of Egypt"
       ],
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "booking_open": true,
       "notified_cinemas": [
         "City Centre Alexandria",
@@ -358,7 +294,7 @@
         "City Centre Almaza",
         "Mall of Egypt"
       ],
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "booking_open": true,
       "notified_cinemas": [
         "City Centre Alexandria",
@@ -374,7 +310,7 @@
         "City Centre Almaza",
         "Mall of Egypt"
       ],
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "booking_open": true,
       "notified_cinemas": [
         "City Centre Alexandria",
@@ -386,7 +322,7 @@
       "title": "Violent Night 2",
       "alerted": false,
       "cinemas": [],
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "booking_open": false,
       "notified_cinemas": []
     },
@@ -398,7 +334,7 @@
         "City Centre Almaza",
         "Mall of Egypt"
       ],
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "notified_cinemas": [
         "City Centre Alexandria",
         "City Centre Almaza",
@@ -410,7 +346,7 @@
       "title": "Jumanji: Open World",
       "alerted": false,
       "cinemas": [],
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "booking_open": false,
       "notified_cinemas": []
     },
@@ -418,7 +354,7 @@
       "title": "Children of Blood and Bone",
       "alerted": false,
       "cinemas": [],
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "booking_open": false,
       "notified_cinemas": []
     },
@@ -426,7 +362,7 @@
       "title": "Narnia: The Magician's Nephew",
       "alerted": false,
       "cinemas": [],
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "booking_open": false,
       "notified_cinemas": []
     },
@@ -434,7 +370,7 @@
       "title": "Day Drinker",
       "alerted": false,
       "cinemas": [],
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "booking_open": false,
       "notified_cinemas": []
     },
@@ -446,7 +382,7 @@
         "City Centre Almaza",
         "Mall of Egypt"
       ],
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "notified_cinemas": [
         "City Centre Alexandria",
         "City Centre Almaza",
@@ -474,7 +410,7 @@
       "title": "Maserati: The Brothers",
       "alerted": false,
       "cinemas": [],
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "booking_open": false,
       "notified_cinemas": []
     },
@@ -486,7 +422,7 @@
         "City Centre Almaza",
         "Mall of Egypt"
       ],
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "booking_open": true,
       "notified_cinemas": [
         "City Centre Alexandria",
@@ -508,7 +444,7 @@
       "cinemas": [
         "City Centre Alexandria"
       ],
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "booking_open": true,
       "notified_cinemas": [
         "City Centre Alexandria"
@@ -558,7 +494,7 @@
       "title": "Mamsous",
       "alerted": false,
       "cinemas": [],
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "booking_open": false,
       "notified_cinemas": []
     },
@@ -576,7 +512,7 @@
       "cinemas": [
         "Mall of Egypt"
       ],
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "notified_cinemas": [
         "Mall of Egypt"
       ],
@@ -589,7 +525,7 @@
         "City Centre Almaza",
         "Mall of Egypt"
       ],
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "booking_open": true,
       "notified_cinemas": [
         "City Centre Almaza",
@@ -840,7 +776,7 @@
       "title": "The Angry Birds Movie 3",
       "alerted": false,
       "cinemas": [],
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "booking_open": false,
       "notified_cinemas": []
     },
@@ -851,7 +787,7 @@
         "City Centre Almaza",
         "Mall of Egypt"
       ],
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "booking_open": true,
       "notified_cinemas": [
         "City Centre Almaza",
@@ -865,7 +801,7 @@
         "City Centre Almaza",
         "Mall of Egypt"
       ],
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "booking_open": true,
       "notified_cinemas": [
         "City Centre Almaza",
@@ -892,7 +828,7 @@
       "title": "Dune: Part One",
       "alerted": false,
       "cinemas": [],
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "booking_open": false,
       "notified_cinemas": []
     },
@@ -900,7 +836,7 @@
       "title": "Dune: Part Two",
       "alerted": false,
       "cinemas": [],
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "booking_open": false,
       "notified_cinemas": []
     },
@@ -919,7 +855,7 @@
         "City Centre Almaza",
         "Mall of Egypt"
       ],
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "booking_open": true,
       "notified_cinemas": [
         "City Centre Almaza",
@@ -942,7 +878,7 @@
         "City Centre Almaza",
         "Mall of Egypt"
       ],
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "booking_open": true,
       "notified_cinemas": [
         "City Centre Alexandria",
@@ -978,7 +914,7 @@
       "title": "Dune: Part Three -Preview Screening",
       "alerted": false,
       "cinemas": [],
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "booking_open": false,
       "notified_cinemas": []
     },
@@ -986,7 +922,7 @@
       "title": "The Beekeeper 2",
       "alerted": false,
       "cinemas": [],
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "booking_open": false,
       "notified_cinemas": []
     },
@@ -994,7 +930,7 @@
       "title": "Spider-Man: (Brand New) Brand New Day",
       "alerted": false,
       "cinemas": [],
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "booking_open": false,
       "notified_cinemas": []
     },
@@ -1006,7 +942,7 @@
         "City Centre Almaza",
         "Mall of Egypt"
       ],
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "booking_open": true,
       "notified_cinemas": [
         "City Centre Alexandria",
@@ -1020,7 +956,7 @@
       "cinemas": [
         "Mall of Egypt"
       ],
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "booking_open": true,
       "notified_cinemas": [
         "Mall of Egypt"
@@ -1034,7 +970,7 @@
         "City Centre Almaza",
         "Mall of Egypt"
       ],
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "notified_cinemas": [
         "City Centre Alexandria",
         "City Centre Almaza",
@@ -1054,7 +990,7 @@
       "title": "K-Pop: The Debut",
       "alerted": false,
       "cinemas": [],
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "booking_open": false,
       "notified_cinemas": []
     }
