@@ -304,14 +304,12 @@
       "title": "Hexed",
       "alerted": true,
       "cinemas": [
-        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-27",
       "booking_open": true,
       "notified_cinemas": [
-        "City Centre Alexandria",
         "City Centre Almaza",
         "Mall of Egypt"
       ]
@@ -796,12 +794,14 @@
       "title": "I Play Rocky",
       "alerted": true,
       "cinemas": [
-        "City Centre Almaza"
+        "City Centre Almaza",
+        "Mall of Egypt"
       ],
       "last_seen": "2026-11-27",
       "booking_open": true,
       "notified_cinemas": [
-        "City Centre Almaza"
+        "City Centre Almaza",
+        "Mall of Egypt"
       ]
     },
     "belkis-turkish": {
