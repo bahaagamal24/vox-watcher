@@ -506,15 +506,11 @@
     },
     "the-cat-in-the-hat-arabic": {
       "title": "The Cat In The Hat",
-      "alerted": true,
-      "cinemas": [
-        "Mall of Egypt"
-      ],
+      "alerted": false,
+      "cinemas": [],
       "last_seen": "2026-11-27",
-      "notified_cinemas": [
-        "Mall of Egypt"
-      ],
-      "booking_open": true
+      "notified_cinemas": [],
+      "booking_open": false
     },
     "how-to-rob-a-bank": {
       "title": "How to Rob a Bank",
@@ -796,14 +792,12 @@
       "title": "I Play Rocky",
       "alerted": true,
       "cinemas": [
-        "City Centre Almaza",
-        "Mall of Egypt"
+        "City Centre Almaza"
       ],
       "last_seen": "2026-11-27",
       "booking_open": true,
       "notified_cinemas": [
-        "City Centre Almaza",
-        "Mall of Egypt"
+        "City Centre Almaza"
       ]
     },
     "belkis-turkish": {
