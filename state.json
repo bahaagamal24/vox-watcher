@@ -374,15 +374,11 @@
       "title": "Matloub 3a2eleyain",
       "alerted": true,
       "cinemas": [
-        "City Centre Alexandria",
-        "City Centre Almaza",
-        "Mall of Egypt"
+        "City Centre Almaza"
       ],
       "last_seen": "2026-11-27",
       "notified_cinemas": [
-        "City Centre Alexandria",
-        "City Centre Almaza",
-        "Mall of Egypt"
+        "City Centre Almaza"
       ],
       "booking_open": true
     },
@@ -926,13 +922,11 @@
       "title": "Focker In-Law",
       "alerted": true,
       "cinemas": [
-        "City Centre Almaza",
         "Mall of Egypt"
       ],
       "last_seen": "2026-11-27",
       "booking_open": true,
       "notified_cinemas": [
-        "City Centre Almaza",
         "Mall of Egypt"
       ]
     },
